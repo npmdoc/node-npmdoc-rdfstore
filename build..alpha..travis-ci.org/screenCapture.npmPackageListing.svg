@@ -1,0 +1,1219 @@
+<svg height="19454" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="19454" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 22:56:59 +0000 30149537 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 22:56:59 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 22:56:59 +0000    19207 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 22:56:59 +0000      528 bytes  bower.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 22:56:59 +0000      271 bytes  browse.sh</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 22:56:59 +0000  1535590 bytes  dist/rdfstore.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 22:56:59 +0000   448384 bytes  dist/rdfstore_min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 22:56:59 +0000     3521 bytes  doc/files.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 22:56:59 +0000     3691 bytes  doc/index.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 22:56:59 +0000    44641 bytes  doc/symbols/Store.Store.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 22:56:59 +0000    10882 bytes  doc/symbols/Store.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 22:56:59 +0000     4711 bytes  doc/symbols/_global_.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 22:56:59 +0000   173586 bytes  doc/symbols/src/Projects_js_rdfstore-js_src_js-s\</tspan>
+<tspan x="10" y="234">tore_src_store.js.html</tspan>
+<tspan x="10" y="250"> 13.  2017-04-25 22:56:59 +0000   173586 bytes  doc/symbols/src/src_js-store_src_store.js.html</tspan>
+<tspan x="10" y="266"> 14.  2017-04-25 22:56:59 +0000      412 bytes  frontend/css/demo.css</tspan>
+<tspan x="10" y="282"> 15.  2017-04-25 22:56:59 +0000     2932 bytes  frontend/css/images/back_down.png</tspan>
+<tspan x="10" y="298"> 16.  2017-04-25 22:56:59 +0000     2866 bytes  frontend/css/images/back_up.png</tspan>
+<tspan x="10" y="314"> 17.  2017-04-25 22:56:59 +0000    21267 bytes  frontend/css/images/background.png</tspan>
+<tspan x="10" y="330"> 18.  2017-04-25 22:56:59 +0000    10791 bytes  frontend/css/images/download.png</tspan>
+<tspan x="10" y="346"> 19.  2017-04-25 22:56:59 +0000     3470 bytes  frontend/css/images/download_down.png</tspan>
+<tspan x="10" y="362"> 20.  2017-04-25 22:56:59 +0000    66021 bytes  frontend/css/images/download_orig.png</tspan>
+<tspan x="10" y="378"> 21.  2017-04-25 22:56:59 +0000     3495 bytes  frontend/css/images/download_up.png</tspan>
+<tspan x="10" y="394"> 22.  2017-04-25 22:56:59 +0000     2975 bytes  frontend/css/images/edit.png</tspan>
+<tspan x="10" y="410"> 23.  2017-04-25 22:56:59 +0000     6134 bytes  frontend/css/images/graph_selected_bg.png</tspan>
+<tspan x="10" y="426"> 24.  2017-04-25 22:56:59 +0000     6163 bytes  frontend/css/images/header_bg.png</tspan>
+<tspan x="10" y="442"> 25.  2017-04-25 22:56:59 +0000     6199 bytes  frontend/css/images/menu_background.png</tspan>
+<tspan x="10" y="458"> 26.  2017-04-25 22:56:59 +0000     2519 bytes  frontend/css/images/next.png</tspan>
+<tspan x="10" y="474"> 27.  2017-04-25 22:56:59 +0000     2937 bytes  frontend/css/images/next_down.png</tspan>
+<tspan x="10" y="490"> 28.  2017-04-25 22:56:59 +0000      161 bytes  frontend/css/images/next_page.png</tspan>
+<tspan x="10" y="506"> 29.  2017-04-25 22:56:59 +0000      163 bytes  frontend/css/images/next_page_down.png</tspan>
+<tspan x="10" y="522"> 30.  2017-04-25 22:56:59 +0000     2848 bytes  frontend/css/images/next_up.png</tspan>
+<tspan x="10" y="538"> 31.  2017-04-25 22:56:59 +0000     3699 bytes  frontend/css/images/not_edit.png</tspan>
+<tspan x="10" y="554"> 32.  2017-04-25 22:56:59 +0000     2920 bytes  frontend/css/images/play_up.png</tspan>
+<tspan x="10" y="570"> 33.  2017-04-25 22:56:59 +0000     2526 bytes  frontend/css/images/prev.png</tspan>
+<tspan x="10" y="586"> 34.  2017-04-25 22:56:59 +0000      164 bytes  frontend/css/images/prev_page.png</tspan>
+<tspan x="10" y="602"> 35.  2017-04-25 22:56:59 +0000      167 bytes  frontend/css/images/prev_page_down.png</tspan>
+<tspan x="10" y="618"> 36.  2017-04-25 22:56:59 +0000     2421 bytes  frontend/css/images/select_graph.png</tspan>
+<tspan x="10" y="634"> 37.  2017-04-25 22:56:59 +0000     7460 bytes  frontend/css/images/window.png</tspan>
+<tspan x="10" y="650"> 38.  2017-04-25 22:56:59 +0000    35592 bytes  frontend/css/images/window_orig.png</tspan>
+<tspan x="10" y="666"> 39.  2017-04-25 22:56:59 +0000    12830 bytes  frontend/css/rdfstore_frontend.css</tspan>
+<tspan x="10" y="682"> 40.  2017-04-25 22:56:59 +0000      260 bytes  frontend/css/ui-lightness/images/ui-bg_diagonals\</tspan>
+<tspan x="10" y="698">-thick_18_b81900_40x40.png</tspan>
+<tspan x="10" y="714"> 41.  2017-04-25 22:56:59 +0000      251 bytes  frontend/css/ui-lightness/images/ui-bg_diagonals\</tspan>
+<tspan x="10" y="730">-thick_20_666666_40x40.png</tspan>
+<tspan x="10" y="746"> 42.  2017-04-25 22:56:59 +0000      178 bytes  frontend/css/ui-lightness/images/ui-bg_flat_10_0\</tspan>
+<tspan x="10" y="762">00000_40x100.png</tspan>
+<tspan x="10" y="778"> 43.  2017-04-25 22:56:59 +0000      104 bytes  frontend/css/ui-lightness/images/ui-bg_glass_100\</tspan>
+<tspan x="10" y="794">_f6f6f6_1x400.png</tspan>
+<tspan x="10" y="810"> 44.  2017-04-25 22:56:59 +0000      125 bytes  frontend/css/ui-lightness/images/ui-bg_glass_100\</tspan>
+<tspan x="10" y="826">_fdf5ce_1x400.png</tspan>
+<tspan x="10" y="842"> 45.  2017-04-25 22:56:59 +0000      105 bytes  frontend/css/ui-lightness/images/ui-bg_glass_65_\</tspan>
+<tspan x="10" y="858">ffffff_1x400.png</tspan>
+<tspan x="10" y="874"> 46.  2017-04-25 22:56:59 +0000     3762 bytes  frontend/css/ui-lightness/images/ui-bg_gloss-wav\</tspan>
+<tspan x="10" y="890">e_35_f6a828_500x100.png</tspan>
+<tspan x="10" y="906"> 47.  2017-04-25 22:56:59 +0000       90 bytes  frontend/css/ui-lightness/images/ui-bg_highlight\</tspan>
+<tspan x="10" y="922">-soft_100_eeeeee_1x100.png</tspan>
+<tspan x="10" y="938"> 48.  2017-04-25 22:56:59 +0000      129 bytes  frontend/css/ui-lightness/images/ui-bg_highlight\</tspan>
+<tspan x="10" y="954">-soft_75_ffe45c_1x100.png</tspan>
+<tspan x="10" y="970"> 49.  2017-04-25 22:56:59 +0000     4369 bytes  frontend/css/ui-lightness/images/ui-icons_222222\</tspan>
+<tspan x="10" y="986">_256x240.png</tspan>
+<tspan x="10" y="1002"> 50.  2017-04-25 22:56:59 +0000     5355 bytes  frontend/css/ui-lightness/images/ui-icons_228ef1\</tspan>
+<tspan x="10" y="1018">_256x240.png</tspan>
+<tspan x="10" y="1034"> 51.  2017-04-25 22:56:59 +0000     4369 bytes  frontend/css/ui-lightness/images/ui-icons_ef8c08\</tspan>
+<tspan x="10" y="1050">_256x240.png</tspan>
+<tspan x="10" y="1066"> 52.  2017-04-25 22:56:59 +0000     4369 bytes  frontend/css/ui-lightness/images/ui-icons_ffd27a\</tspan>
+<tspan x="10" y="1082">_256x240.png</tspan>
+<tspan x="10" y="1098"> 53.  2017-04-25 22:56:59 +0000     4369 bytes  frontend/css/ui-lightness/images/ui-icons_ffffff\</tspan>
+<tspan x="10" y="1114">_256x240.png</tspan>
+<tspan x="10" y="1130"> 54.  2017-04-25 22:56:59 +0000    33530 bytes  frontend/css/ui-lightness/jquery-ui-1.8.14.custo\</tspan>
+<tspan x="10" y="1146">m.css</tspan>
+<tspan x="10" y="1162"> 55.  2017-04-25 22:56:59 +0000    64006 bytes  frontend/icons/rdfstore.icns</tspan>
+<tspan x="10" y="1178"> 56.  2017-04-25 22:56:59 +0000   252136 bytes  frontend/icons/rdfstore.ico</tspan>
+<tspan x="10" y="1194"> 57.  2017-04-25 22:56:59 +0000     7990 bytes  frontend/index.html</tspan>
+<tspan x="10" y="1210"> 58.  2017-04-25 22:56:59 +0000   210246 bytes  frontend/js/jquery-ui.min.js</tspan>
+<tspan x="10" y="1226"> 59.  2017-04-25 22:56:59 +0000   109313 bytes  frontend/js/knockout-1.2.1.js</tspan>
+<tspan x="10" y="1242"> 60.  2017-04-25 22:56:59 +0000  1455704 bytes  frontend/js/rdf_store.js</tspan>
+<tspan x="10" y="1258"> 61.  2017-04-25 22:56:59 +0000   328457 bytes  frontend/js/rdf_store_min.js</tspan>
+<tspan x="10" y="1274"> 62.  2017-04-25 22:56:59 +0000   201908 bytes  frontend/js/rdfquery.js</tspan>
+<tspan x="10" y="1290"> 63.  2017-04-25 22:56:59 +0000    35062 bytes  frontend/js/rdfstore_frontend.js</tspan>
+<tspan x="10" y="1306"> 64.  2017-04-25 22:56:59 +0000     1477 bytes  frontend/main.js</tspan>
+<tspan x="10" y="1322"> 65.  2017-04-25 22:56:59 +0000       89 bytes  frontend/package.json</tspan>
+<tspan x="10" y="1338"> 66.  2017-04-25 22:56:59 +0000   979642 bytes  frontend/rdfstore.js</tspan>
+<tspan x="10" y="1354"> 67.  2017-04-25 22:56:59 +0000     3161 bytes  gulpfile.js</tspan>
+<tspan x="10" y="1370"> 68.  2017-04-25 22:56:59 +0000  4512893 bytes  lubm/browser/converted_data.json</tspan>
+<tspan x="10" y="1386"> 69.  2017-04-25 22:56:59 +0000 11547922 bytes  lubm/browser/data.json</tspan>
+<tspan x="10" y="1402"> 70.  2017-04-25 22:56:59 +0000    24794 bytes  lubm/browser/index.html</tspan>
+<tspan x="10" y="1418"> 71.  2017-04-25 22:56:59 +0000     1358 bytes  lubm/browser/nodeunit.css</tspan>
+<tspan x="10" y="1434"> 72.  2017-04-25 22:56:59 +0000    62432 bytes  lubm/browser/nodeunit.js</tspan>
+<tspan x="10" y="1450"> 73.  2017-04-25 22:56:59 +0000    16918 bytes  lubm/browser/nodeunit.min.js</tspan>
+<tspan x="10" y="1466"> 74.  2017-04-25 22:56:59 +0000  1536485 bytes  lubm/browser/rdfstore.js</tspan>
+<tspan x="10" y="1482"> 75.  2017-04-25 22:56:59 +0000   451698 bytes  lubm/browser/rdfstore_min.js</tspan>
+<tspan x="10" y="1498"> 76.  2017-04-25 22:56:59 +0000     6281 bytes  lubm/browser/server.js</tspan>
+<tspan x="10" y="1514"> 77.  2017-04-25 22:56:59 +0000    28726 bytes  lubm/browser/store.js</tspan>
+<tspan x="10" y="1530"> 78.  2017-04-25 22:56:59 +0000     1278 bytes  lubm/browser/updater.js</tspan>
+<tspan x="10" y="1546"> 79.  2017-04-25 22:56:59 +0000     3081 bytes  package.json</tspan>
+<tspan x="10" y="1562"> 80.  2017-04-25 22:56:59 +0000    75253 bytes  pegjs/sparql_query.grammar</tspan>
+<tspan x="10" y="1578"> 81.  2017-04-25 22:56:59 +0000    14169 bytes  spec/abstract_query_tree_spec.js</tspan>
+<tspan x="10" y="1594"> 82.  2017-04-25 22:56:59 +0000      413 bytes  spec/browser/index.html</tspan>
+<tspan x="10" y="1610"> 83.  2017-04-25 22:56:59 +0000      545 bytes  spec/browser/index_bower.html</tspan>
+<tspan x="10" y="1626"> 84.  2017-04-25 22:56:59 +0000     1358 bytes  spec/browser/nodeunit.css</tspan>
+<tspan x="10" y="1642"> 85.  2017-04-25 22:56:59 +0000    62432 bytes  spec/browser/nodeunit.js</tspan>
+<tspan x="10" y="1658"> 86.  2017-04-25 22:56:59 +0000    16918 bytes  spec/browser/nodeunit.min.js</tspan>
+<tspan x="10" y="1674"> 87.  2017-04-25 22:56:59 +0000  1535590 bytes  spec/browser/rdf_store.js</tspan>
+<tspan x="10" y="1690"> 88.  2017-04-25 22:56:59 +0000   448384 bytes  spec/browser/rdf_store_min.js</tspan>
+<tspan x="10" y="1706"> 89.  2017-04-25 22:56:59 +0000  1536485 bytes  spec/browser/rdfstore.js</tspan>
+<tspan x="10" y="1722"> 90.  2017-04-25 22:56:59 +0000    46846 bytes  spec/browser/store.js</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-25 22:56:59 +0000     6898 bytes  spec/btree_spec.js</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-25 22:56:59 +0000     6114 bytes  spec/data/sp2b_10k.n3</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-25 22:56:59 +0000      934 bytes  spec/data/with_comments.n3</tspan>
+<tspan x="10" y="1786"> 94.  2017-04-25 22:56:59 +0000    12435 bytes  spec/jsonld_parser_spec.js</tspan>
+<tspan x="10" y="1802"> 95.  2017-04-25 22:56:59 +0000     3095 bytes  spec/lexicon_spec.js</tspan>
+<tspan x="10" y="1818"> 96.  2017-04-25 22:56:59 +0000     3346 bytes  spec/persistent_lexicon_spec.js</tspan>
+<tspan x="10" y="1834"> 97.  2017-04-25 22:56:59 +0000      922 bytes  spec/persistent_quad_backend_spec.js</tspan>
+<tspan x="10" y="1850"> 98.  2017-04-25 22:56:59 +0000     3435 bytes  spec/quad_backend_spec.js</tspan>
+<tspan x="10" y="1866"> 99.  2017-04-25 22:56:59 +0000     4563 bytes  spec/quad_index_spec.js</tspan>
+<tspan x="10" y="1882">100.  2017-04-25 22:56:59 +0000    85873 bytes  spec/query_engine_spec.js</tspan>
+<tspan x="10" y="1898">101.  2017-04-25 22:56:59 +0000     5190 bytes  spec/query_filter_spec.js</tspan>
+<tspan x="10" y="1914">102.  2017-04-25 22:56:59 +0000     2757 bytes  spec/query_plan_spec.js</tspan>
+<tspan x="10" y="1930">103.  2017-04-25 22:56:59 +0000     7589 bytes  spec/rdf_model_spec.js</tspan>
+<tspan x="10" y="1946">104.  2017-04-25 22:56:59 +0000    36515 bytes  spec/rvn3_parser_spec.js</tspan>
+<tspan x="10" y="1962">105.  2017-04-25 22:56:59 +0000    63786 bytes  spec/store_spec.js</tspan>
+<tspan x="10" y="1978">106.  2017-04-25 22:56:59 +0000      171 bytes  spec/support/jasmine.json</tspan>
+<tspan x="10" y="1994">107.  2017-04-25 22:56:59 +0000      867 bytes  spec/utils_spec.js</tspan>
+<tspan x="10" y="2010">108.  2017-04-25 22:56:59 +0000      294 bytes  spec/w3c/add/add-01-post.ttl</tspan>
+<tspan x="10" y="2026">109.  2017-04-25 22:56:59 +0000      184 bytes  spec/w3c/add/add-01-pre.ttl</tspan>
+<tspan x="10" y="2042">110.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/add/add-01.ru</tspan>
+<tspan x="10" y="2058">111.  2017-04-25 22:56:59 +0000      279 bytes  spec/w3c/add/add-02-post.ttl</tspan>
+<tspan x="10" y="2074">112.  2017-04-25 22:56:59 +0000      179 bytes  spec/w3c/add/add-02-pre.ttl</tspan>
+<tspan x="10" y="2090">113.  2017-04-25 22:56:59 +0000      208 bytes  spec/w3c/add/add-03-post.ttl</tspan>
+<tspan x="10" y="2106">114.  2017-04-25 22:56:59 +0000      186 bytes  spec/w3c/add/add-03-pre.ttl</tspan>
+<tspan x="10" y="2122">115.  2017-04-25 22:56:59 +0000       45 bytes  spec/w3c/add/add-03.ru</tspan>
+<tspan x="10" y="2138">116.  2017-04-25 22:56:59 +0000       45 bytes  spec/w3c/add/add-05.ru</tspan>
+<tspan x="10" y="2154">117.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/add/add-06.ru</tspan>
+<tspan x="10" y="2170">118.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/add/add-07.ru</tspan>
+<tspan x="10" y="2186">119.  2017-04-25 22:56:59 +0000       45 bytes  spec/w3c/add/add-08.ru</tspan>
+<tspan x="10" y="2202">120.  2017-04-25 22:56:59 +0000      194 bytes  spec/w3c/add/add-default.ttl</tspan>
+<tspan x="10" y="2218">121.  2017-04-25 22:56:59 +0000     6549 bytes  spec/w3c/add/manifest.ttl</tspan>
+<tspan x="10" y="2234">122.  2017-04-25 22:56:59 +0000       82 bytes  spec/w3c/aggregates/agg-avg-01.rq</tspan>
+<tspan x="10" y="2250">123.  2017-04-25 22:56:59 +0000      314 bytes  spec/w3c/aggregates/agg-avg-01.srx</tspan>
+<tspan x="10" y="2266">124.  2017-04-25 22:56:59 +0000      119 bytes  spec/w3c/aggregates/agg-avg-02.rq</tspan>
+<tspan x="10" y="2282">125.  2017-04-25 22:56:59 +0000      919 bytes  spec/w3c/aggregates/agg-avg-02.srx</tspan>
+<tspan x="10" y="2298">126.  2017-04-25 22:56:59 +0000      103 bytes  spec/w3c/aggregates/agg-empty-group.rq</tspan>
+<tspan x="10" y="2314">127.  2017-04-25 22:56:59 +0000      176 bytes  spec/w3c/aggregates/agg-empty-group.srx</tspan>
+<tspan x="10" y="2330">128.  2017-04-25 22:56:59 +0000      132 bytes  spec/w3c/aggregates/agg-err-01.rq</tspan>
+<tspan x="10" y="2346">129.  2017-04-25 22:56:59 +0000      859 bytes  spec/w3c/aggregates/agg-err-01.srx</tspan>
+<tspan x="10" y="2362">130.  2017-04-25 22:56:59 +0000      107 bytes  spec/w3c/aggregates/agg-err-01.ttl</tspan>
+<tspan x="10" y="2378">131.  2017-04-25 22:56:59 +0000      197 bytes  spec/w3c/aggregates/agg-err-02.rq</tspan>
+<tspan x="10" y="2394">132.  2017-04-25 22:56:59 +0000      912 bytes  spec/w3c/aggregates/agg-err-02.srx</tspan>
+<tspan x="10" y="2410">133.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/aggregates/agg-err-02.ttl</tspan>
+<tspan x="10" y="2426">134.  2017-04-25 22:56:59 +0000      137 bytes  spec/w3c/aggregates/agg-groupconcat-1.rq</tspan>
+<tspan x="10" y="2442">135.  2017-04-25 22:56:59 +0000      124 bytes  spec/w3c/aggregates/agg-groupconcat-1.srx</tspan>
+<tspan x="10" y="2458">136.  2017-04-25 22:56:59 +0000       84 bytes  spec/w3c/aggregates/agg-groupconcat-1.ttl</tspan>
+<tspan x="10" y="2474">137.  2017-04-25 22:56:59 +0000      324 bytes  spec/w3c/aggregates/agg-groupconcat-2.rq</tspan>
+<tspan x="10" y="2490">138.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/aggregates/agg-groupconcat-2.srx</tspan>
+<tspan x="10" y="2506">139.  2017-04-25 22:56:59 +0000      151 bytes  spec/w3c/aggregates/agg-groupconcat-3.rq</tspan>
+<tspan x="10" y="2522">140.  2017-04-25 22:56:59 +0000      124 bytes  spec/w3c/aggregates/agg-groupconcat-3.srx</tspan>
+<tspan x="10" y="2538">141.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/aggregates/agg-max-01.rq</tspan>
+<tspan x="10" y="2554">142.  2017-04-25 22:56:59 +0000      314 bytes  spec/w3c/aggregates/agg-max-01.srx</tspan>
+<tspan x="10" y="2570">143.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/aggregates/agg-max-02.rq</tspan>
+<tspan x="10" y="2586">144.  2017-04-25 22:56:59 +0000     1409 bytes  spec/w3c/aggregates/agg-max-02.srx</tspan>
+<tspan x="10" y="2602">145.  2017-04-25 22:56:59 +0000       82 bytes  spec/w3c/aggregates/agg-min-01.rq</tspan>
+<tspan x="10" y="2618">146.  2017-04-25 22:56:59 +0000      313 bytes  spec/w3c/aggregates/agg-min-01.srx</tspan>
+<tspan x="10" y="2634">147.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/aggregates/agg-min-02.rq</tspan>
+<tspan x="10" y="2650">148.  2017-04-25 22:56:59 +0000     1409 bytes  spec/w3c/aggregates/agg-min-02.srx</tspan>
+<tspan x="10" y="2666">149.  2017-04-25 22:56:59 +0000      243 bytes  spec/w3c/aggregates/agg-numeric.ttl</tspan>
+<tspan x="10" y="2682">150.  2017-04-25 22:56:59 +0000      243 bytes  spec/w3c/aggregates/agg-numeric2.ttl</tspan>
+<tspan x="10" y="2698">151.  2017-04-25 22:56:59 +0000      167 bytes  spec/w3c/aggregates/agg-sample-01.rq</tspan>
+<tspan x="10" y="2714">152.  2017-04-25 22:56:59 +0000      124 bytes  spec/w3c/aggregates/agg-sample-01.srx</tspan>
+<tspan x="10" y="2730">153.  2017-04-25 22:56:59 +0000       82 bytes  spec/w3c/aggregates/agg-sum-01.rq</tspan>
+<tspan x="10" y="2746">154.  2017-04-25 22:56:59 +0000      314 bytes  spec/w3c/aggregates/agg-sum-01.srx</tspan>
+<tspan x="10" y="2762">155.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/aggregates/agg-sum-02.rq</tspan>
+<tspan x="10" y="2778">156.  2017-04-25 22:56:59 +0000     1412 bytes  spec/w3c/aggregates/agg-sum-02.srx</tspan>
+<tspan x="10" y="2794">157.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/aggregates/agg01.rq</tspan>
+<tspan x="10" y="2810">158.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/aggregates/agg01.srx</tspan>
+<tspan x="10" y="2826">159.  2017-04-25 22:56:59 +0000       78 bytes  spec/w3c/aggregates/agg01.ttl</tspan>
+<tspan x="10" y="2842">160.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/aggregates/agg02.rq</tspan>
+<tspan x="10" y="2858">161.  2017-04-25 22:56:59 +0000      656 bytes  spec/w3c/aggregates/agg02.srx</tspan>
+<tspan x="10" y="2874">162.  2017-04-25 22:56:59 +0000      118 bytes  spec/w3c/aggregates/agg03.rq</tspan>
+<tspan x="10" y="2890">163.  2017-04-25 22:56:59 +0000      419 bytes  spec/w3c/aggregates/agg03.srx</tspan>
+<tspan x="10" y="2906">164.  2017-04-25 22:56:59 +0000       78 bytes  spec/w3c/aggregates/agg04.rq</tspan>
+<tspan x="10" y="2922">165.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/aggregates/agg04.srx</tspan>
+<tspan x="10" y="2938">166.  2017-04-25 22:56:59 +0000       93 bytes  spec/w3c/aggregates/agg05.rq</tspan>
+<tspan x="10" y="2954">167.  2017-04-25 22:56:59 +0000      656 bytes  spec/w3c/aggregates/agg05.srx</tspan>
+<tspan x="10" y="2970">168.  2017-04-25 22:56:59 +0000      101 bytes  spec/w3c/aggregates/agg06.rq</tspan>
+<tspan x="10" y="2986">169.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/aggregates/agg06.srx</tspan>
+<tspan x="10" y="3002">170.  2017-04-25 22:56:59 +0000      117 bytes  spec/w3c/aggregates/agg07.rq</tspan>
+<tspan x="10" y="3018">171.  2017-04-25 22:56:59 +0000      419 bytes  spec/w3c/aggregates/agg07.srx</tspan>
+<tspan x="10" y="3034">172.  2017-04-25 22:56:59 +0000      147 bytes  spec/w3c/aggregates/agg08.rq</tspan>
+<tspan x="10" y="3050">173.  2017-04-25 22:56:59 +0000       67 bytes  spec/w3c/aggregates/agg08.ttl</tspan>
+<tspan x="10" y="3066">174.  2017-04-25 22:56:59 +0000      149 bytes  spec/w3c/aggregates/agg08b.rq</tspan>
+<tspan x="10" y="3082">175.  2017-04-25 22:56:59 +0000     1559 bytes  spec/w3c/aggregates/agg08b.srx</tspan>
+<tspan x="10" y="3098">176.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/aggregates/agg09.rq</tspan>
+<tspan x="10" y="3114">177.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/aggregates/agg10.rq</tspan>
+<tspan x="10" y="3130">178.  2017-04-25 22:56:59 +0000      126 bytes  spec/w3c/aggregates/agg11.rq</tspan>
+<tspan x="10" y="3146">179.  2017-04-25 22:56:59 +0000      115 bytes  spec/w3c/aggregates/agg12.rq</tspan>
+<tspan x="10" y="3162">180.  2017-04-25 22:56:59 +0000       36 bytes  spec/w3c/aggregates/empty.ttl</tspan>
+<tspan x="10" y="3178">181.  2017-04-25 22:56:59 +0000    11609 bytes  spec/w3c/aggregates/manifest.ttl</tspan>
+<tspan x="10" y="3194">182.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/basic-update/empty.ttl</tspan>
+<tspan x="10" y="3210">183.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/basic-update/insert-01-post.ttl</tspan>
+<tspan x="10" y="3226">184.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/basic-update/insert-01-pre.ttl</tspan>
+<tspan x="10" y="3242">185.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/basic-update/insert-01.ru</tspan>
+<tspan x="10" y="3258">186.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/basic-update/insert-02-g1-post.ttl</tspan>
+<tspan x="10" y="3274">187.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/basic-update/insert-02-post.ttl</tspan>
+<tspan x="10" y="3290">188.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/basic-update/insert-02-pre.ttl</tspan>
+<tspan x="10" y="3306">189.  2017-04-25 22:56:59 +0000       96 bytes  spec/w3c/basic-update/insert-02.ru</tspan>
+<tspan x="10" y="3322">190.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/basic-update/insert-03-g1-post.ttl</tspan>
+<tspan x="10" y="3338">191.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/basic-update/insert-03-g1-pre.ttl</tspan>
+<tspan x="10" y="3354">192.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/basic-update/insert-03-post.ttl</tspan>
+<tspan x="10" y="3370">193.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/basic-update/insert-03-pre.ttl</tspan>
+<tspan x="10" y="3386">194.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/basic-update/insert-03.ru</tspan>
+<tspan x="10" y="3402">195.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/basic-update/insert-04-g1-post.ttl</tspan>
+<tspan x="10" y="3418">196.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/basic-update/insert-04-g1-pre.ttl</tspan>
+<tspan x="10" y="3434">197.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/basic-update/insert-04-post.ttl</tspan>
+<tspan x="10" y="3450">198.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/basic-update/insert-04-pre.ttl</tspan>
+<tspan x="10" y="3466">199.  2017-04-25 22:56:59 +0000       89 bytes  spec/w3c/basic-update/insert-04.ru</tspan>
+<tspan x="10" y="3482">200.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/basic-update/insert-05-g1-pre.ttl</tspan>
+<tspan x="10" y="3498">201.  2017-04-25 22:56:59 +0000      173 bytes  spec/w3c/basic-update/insert-05.ru</tspan>
+<tspan x="10" y="3514">202.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/basic-update/insert-05a-g1-pre.ttl</tspan>
+<tspan x="10" y="3530">203.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/basic-update/insert-05a-g3-post.ttl</tspan>
+<tspan x="10" y="3546">204.  2017-04-25 22:56:59 +0000      323 bytes  spec/w3c/basic-update/insert-05a.ru</tspan>
+<tspan x="10" y="3562">205.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/basic-update/insert-data-named1.ru</tspan>
+<tspan x="10" y="3578">206.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/basic-update/insert-data-named2.ru</tspan>
+<tspan x="10" y="3594">207.  2017-04-25 22:56:59 +0000      523 bytes  spec/w3c/basic-update/insert-data-same-bnode.ru</tspan>
+<tspan x="10" y="3610">208.  2017-04-25 22:56:59 +0000       60 bytes  spec/w3c/basic-update/insert-data-spo1.ru</tspan>
+<tspan x="10" y="3626">209.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/basic-update/insert-using-01-g1-post.tt\</tspan>
+<tspan x="10" y="3642">l</tspan>
+<tspan x="10" y="3658">210.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/basic-update/insert-using-01-g1-pre.ttl</tspan>
+<tspan x="10" y="3674">211.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/basic-update/insert-using-01-g2-post.tt\</tspan>
+<tspan x="10" y="3690">l</tspan>
+<tspan x="10" y="3706">212.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/basic-update/insert-using-01-g2-pre.ttl</tspan>
+<tspan x="10" y="3722">213.  2017-04-25 22:56:59 +0000       72 bytes  spec/w3c/basic-update/insert-using-01-post.ttl</tspan>
+<tspan x="10" y="3738">214.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/basic-update/insert-using-01-pre.ttl</tspan>
+<tspan x="10" y="3754">215.  2017-04-25 22:56:59 +0000       99 bytes  spec/w3c/basic-update/insert-using-01.ru</tspan>
+<tspan x="10" y="3770">216.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/basic-update/insert-where-same-bnode-g3\</tspan>
+<tspan x="10" y="3786">-post.ttl</tspan>
+<tspan x="10" y="3802">217.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/basic-update/insert-where-same-bnode-pr\</tspan>
+<tspan x="10" y="3818">e.ttl</tspan>
+<tspan x="10" y="3834">218.  2017-04-25 22:56:59 +0000      551 bytes  spec/w3c/basic-update/insert-where-same-bnode.ru</tspan>
+<tspan x="10" y="3850">219.  2017-04-25 22:56:59 +0000      531 bytes  spec/w3c/basic-update/insert-where-same-bnode2.r\</tspan>
+<tspan x="10" y="3866">u</tspan>
+<tspan x="10" y="3882">220.  2017-04-25 22:56:59 +0000    11953 bytes  spec/w3c/basic-update/manifest.ttl</tspan>
+<tspan x="10" y="3898">221.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/basic-update/spo.ttl</tspan>
+<tspan x="10" y="3914">222.  2017-04-25 22:56:59 +0000       56 bytes  spec/w3c/basic-update/spo2.ttl</tspan>
+<tspan x="10" y="3930">223.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/bind/bind01.rq</tspan>
+<tspan x="10" y="3946">224.  2017-04-25 22:56:59 +0000      761 bytes  spec/w3c/bind/bind01.srx</tspan>
+<tspan x="10" y="3962">225.  2017-04-25 22:56:59 +0000      108 bytes  spec/w3c/bind/bind02.rq</tspan>
+<tspan x="10" y="3978">226.  2017-04-25 22:56:59 +0000     1808 bytes  spec/w3c/bind/bind02.srx</tspan>
+<tspan x="10" y="3994">227.  2017-04-25 22:56:59 +0000       96 bytes  spec/w3c/bind/bind03.rq</tspan>
+<tspan x="10" y="4010">228.  2017-04-25 22:56:59 +0000      885 bytes  spec/w3c/bind/bind03.srx</tspan>
+<tspan x="10" y="4026">229.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/bind/bind04.rq</tspan>
+<tspan x="10" y="4042">230.  2017-04-25 22:56:59 +0000     1492 bytes  spec/w3c/bind/bind04.srx</tspan>
+<tspan x="10" y="4058">231.  2017-04-25 22:56:59 +0000      106 bytes  spec/w3c/bind/bind05.rq</tspan>
+<tspan x="10" y="4074">232.  2017-04-25 22:56:59 +0000      670 bytes  spec/w3c/bind/bind05.srx</tspan>
+<tspan x="10" y="4090">233.  2017-04-25 22:56:59 +0000       78 bytes  spec/w3c/bind/bind06.rq</tspan>
+<tspan x="10" y="4106">234.  2017-04-25 22:56:59 +0000     1988 bytes  spec/w3c/bind/bind06.srx</tspan>
+<tspan x="10" y="4122">235.  2017-04-25 22:56:59 +0000      119 bytes  spec/w3c/bind/bind07.rq</tspan>
+<tspan x="10" y="4138">236.  2017-04-25 22:56:59 +0000     2752 bytes  spec/w3c/bind/bind07.srx</tspan>
+<tspan x="10" y="4154">237.  2017-04-25 22:56:59 +0000      106 bytes  spec/w3c/bind/bind08.rq</tspan>
+<tspan x="10" y="4170">238.  2017-04-25 22:56:59 +0000      670 bytes  spec/w3c/bind/bind08.srx</tspan>
+<tspan x="10" y="4186">239.  2017-04-25 22:56:59 +0000      188 bytes  spec/w3c/bind/bind10.rq</tspan>
+<tspan x="10" y="4202">240.  2017-04-25 22:56:59 +0000      207 bytes  spec/w3c/bind/bind10.srx</tspan>
+<tspan x="10" y="4218">241.  2017-04-25 22:56:59 +0000      176 bytes  spec/w3c/bind/bind11.rq</tspan>
+<tspan x="10" y="4234">242.  2017-04-25 22:56:59 +0000      563 bytes  spec/w3c/bind/bind11.srx</tspan>
+<tspan x="10" y="4250">243.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/bind/data.ttl</tspan>
+<tspan x="10" y="4266">244.  2017-04-25 22:56:59 +0000     3894 bytes  spec/w3c/bind/manifest.ttl</tspan>
+<tspan x="10" y="4282">245.  2017-04-25 22:56:59 +0000      243 bytes  spec/w3c/bindings/bindings01.rq</tspan>
+<tspan x="10" y="4298">246.  2017-04-25 22:56:59 +0000      507 bytes  spec/w3c/bindings/bindings01.srx</tspan>
+<tspan x="10" y="4314">247.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/bindings/bindings02.rq</tspan>
+<tspan x="10" y="4330">248.  2017-04-25 22:56:59 +0000      340 bytes  spec/w3c/bindings/bindings02.srx</tspan>
+<tspan x="10" y="4346">249.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/bindings/bindings03.rq</tspan>
+<tspan x="10" y="4362">250.  2017-04-25 22:56:59 +0000      433 bytes  spec/w3c/bindings/bindings03.srx</tspan>
+<tspan x="10" y="4378">251.  2017-04-25 22:56:59 +0000      156 bytes  spec/w3c/bindings/bindings04.rq</tspan>
+<tspan x="10" y="4394">252.  2017-04-25 22:56:59 +0000      863 bytes  spec/w3c/bindings/bindings04.srx</tspan>
+<tspan x="10" y="4410">253.  2017-04-25 22:56:59 +0000      133 bytes  spec/w3c/bindings/bindings05.rq</tspan>
+<tspan x="10" y="4426">254.  2017-04-25 22:56:59 +0000     1540 bytes  spec/w3c/bindings/bindings05.srx</tspan>
+<tspan x="10" y="4442">255.  2017-04-25 22:56:59 +0000      196 bytes  spec/w3c/bindings/bindings06.rq</tspan>
+<tspan x="10" y="4458">256.  2017-04-25 22:56:59 +0000      451 bytes  spec/w3c/bindings/bindings06.srx</tspan>
+<tspan x="10" y="4474">257.  2017-04-25 22:56:59 +0000      220 bytes  spec/w3c/bindings/bindings07.rq</tspan>
+<tspan x="10" y="4490">258.  2017-04-25 22:56:59 +0000     1578 bytes  spec/w3c/bindings/bindings07.srx</tspan>
+<tspan x="10" y="4506">259.  2017-04-25 22:56:59 +0000      283 bytes  spec/w3c/bindings/bindings08.rq</tspan>
+<tspan x="10" y="4522">260.  2017-04-25 22:56:59 +0000      795 bytes  spec/w3c/bindings/bindings08.srx</tspan>
+<tspan x="10" y="4538">261.  2017-04-25 22:56:59 +0000      258 bytes  spec/w3c/bindings/data01.ttl</tspan>
+<tspan x="10" y="4554">262.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/bindings/data02.ttl</tspan>
+<tspan x="10" y="4570">263.  2017-04-25 22:56:59 +0000      209 bytes  spec/w3c/bindings/data03.ttl</tspan>
+<tspan x="10" y="4586">264.  2017-04-25 22:56:59 +0000      209 bytes  spec/w3c/bindings/data04.ttl</tspan>
+<tspan x="10" y="4602">265.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/bindings/data05.ttl</tspan>
+<tspan x="10" y="4618">266.  2017-04-25 22:56:59 +0000      214 bytes  spec/w3c/bindings/data06.ttl</tspan>
+<tspan x="10" y="4634">267.  2017-04-25 22:56:59 +0000      291 bytes  spec/w3c/bindings/data07.ttl</tspan>
+<tspan x="10" y="4650">268.  2017-04-25 22:56:59 +0000      258 bytes  spec/w3c/bindings/data08.ttl</tspan>
+<tspan x="10" y="4666">269.  2017-04-25 22:56:59 +0000      242 bytes  spec/w3c/bindings/inline01.rq</tspan>
+<tspan x="10" y="4682">270.  2017-04-25 22:56:59 +0000      507 bytes  spec/w3c/bindings/inline01.srx</tspan>
+<tspan x="10" y="4698">271.  2017-04-25 22:56:59 +0000      182 bytes  spec/w3c/bindings/inline02.rq</tspan>
+<tspan x="10" y="4714">272.  2017-04-25 22:56:59 +0000      340 bytes  spec/w3c/bindings/inline02.srx</tspan>
+<tspan x="10" y="4730">273.  2017-04-25 22:56:59 +0000     7638 bytes  spec/w3c/bindings/manifest.ttl</tspan>
+<tspan x="10" y="4746">274.  2017-04-25 22:56:59 +0000      240 bytes  spec/w3c/bindings/values01.rq</tspan>
+<tspan x="10" y="4762">275.  2017-04-25 22:56:59 +0000      507 bytes  spec/w3c/bindings/values01.srx</tspan>
+<tspan x="10" y="4778">276.  2017-04-25 22:56:59 +0000      147 bytes  spec/w3c/bindings/values02.rq</tspan>
+<tspan x="10" y="4794">277.  2017-04-25 22:56:59 +0000      340 bytes  spec/w3c/bindings/values02.srx</tspan>
+<tspan x="10" y="4810">278.  2017-04-25 22:56:59 +0000      188 bytes  spec/w3c/bindings/values03.rq</tspan>
+<tspan x="10" y="4826">279.  2017-04-25 22:56:59 +0000      433 bytes  spec/w3c/bindings/values03.srx</tspan>
+<tspan x="10" y="4842">280.  2017-04-25 22:56:59 +0000      157 bytes  spec/w3c/bindings/values04.rq</tspan>
+<tspan x="10" y="4858">281.  2017-04-25 22:56:59 +0000      863 bytes  spec/w3c/bindings/values04.srx</tspan>
+<tspan x="10" y="4874">282.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/bindings/values05.rq</tspan>
+<tspan x="10" y="4890">283.  2017-04-25 22:56:59 +0000     1540 bytes  spec/w3c/bindings/values05.srx</tspan>
+<tspan x="10" y="4906">284.  2017-04-25 22:56:59 +0000      193 bytes  spec/w3c/bindings/values06.rq</tspan>
+<tspan x="10" y="4922">285.  2017-04-25 22:56:59 +0000      451 bytes  spec/w3c/bindings/values06.srx</tspan>
+<tspan x="10" y="4938">286.  2017-04-25 22:56:59 +0000      221 bytes  spec/w3c/bindings/values07.rq</tspan>
+<tspan x="10" y="4954">287.  2017-04-25 22:56:59 +0000     1578 bytes  spec/w3c/bindings/values07.srx</tspan>
+<tspan x="10" y="4970">288.  2017-04-25 22:56:59 +0000      284 bytes  spec/w3c/bindings/values08.rq</tspan>
+<tspan x="10" y="4986">289.  2017-04-25 22:56:59 +0000      795 bytes  spec/w3c/bindings/values08.srx</tspan>
+<tspan x="10" y="5002">290.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/clear/clear-all-01.ru</tspan>
+<tspan x="10" y="5018">291.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/clear/clear-default-01.ru</tspan>
+<tspan x="10" y="5034">292.  2017-04-25 22:56:59 +0000       62 bytes  spec/w3c/clear/clear-default.ttl</tspan>
+<tspan x="10" y="5050">293.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/clear/clear-g1.ttl</tspan>
+<tspan x="10" y="5066">294.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/clear/clear-g2.ttl</tspan>
+<tspan x="10" y="5082">295.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/clear/clear-graph-01.ru</tspan>
+<tspan x="10" y="5098">296.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/clear/clear-named-01.ru</tspan>
+<tspan x="10" y="5114">297.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/clear/empty.ttl</tspan>
+<tspan x="10" y="5130">298.  2017-04-25 22:56:59 +0000     4558 bytes  spec/w3c/clear/manifest.ttl</tspan>
+<tspan x="10" y="5146">299.  2017-04-25 22:56:59 +0000       59 bytes  spec/w3c/construct/constructwhere01.rq</tspan>
+<tspan x="10" y="5162">300.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/construct/constructwhere01result.ttl</tspan>
+<tspan x="10" y="5178">301.  2017-04-25 22:56:59 +0000       73 bytes  spec/w3c/construct/constructwhere02.rq</tspan>
+<tspan x="10" y="5194">302.  2017-04-25 22:56:59 +0000       95 bytes  spec/w3c/construct/constructwhere02result.ttl</tspan>
+<tspan x="10" y="5210">303.  2017-04-25 22:56:59 +0000       67 bytes  spec/w3c/construct/constructwhere03.rq</tspan>
+<tspan x="10" y="5226">304.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/construct/constructwhere03result.ttl</tspan>
+<tspan x="10" y="5242">305.  2017-04-25 22:56:59 +0000       77 bytes  spec/w3c/construct/constructwhere04.rq</tspan>
+<tspan x="10" y="5258">306.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/construct/constructwhere04result.ttl</tspan>
+<tspan x="10" y="5274">307.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/construct/constructwhere05.rq</tspan>
+<tspan x="10" y="5290">308.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/construct/constructwhere06.rq</tspan>
+<tspan x="10" y="5306">309.  2017-04-25 22:56:59 +0000       87 bytes  spec/w3c/construct/data.ttl</tspan>
+<tspan x="10" y="5322">310.  2017-04-25 22:56:59 +0000     2982 bytes  spec/w3c/construct/manifest.ttl</tspan>
+<tspan x="10" y="5338">311.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/copy/copy-01.ru</tspan>
+<tspan x="10" y="5354">312.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/copy/copy-01.ttl</tspan>
+<tspan x="10" y="5370">313.  2017-04-25 22:56:59 +0000      192 bytes  spec/w3c/copy/copy-02.ttl</tspan>
+<tspan x="10" y="5386">314.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/copy/copy-03.ru</tspan>
+<tspan x="10" y="5402">315.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/copy/copy-06.ru</tspan>
+<tspan x="10" y="5418">316.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/copy/copy-07.ru</tspan>
+<tspan x="10" y="5434">317.  2017-04-25 22:56:59 +0000      183 bytes  spec/w3c/copy/copy-default.ttl</tspan>
+<tspan x="10" y="5450">318.  2017-04-25 22:56:59 +0000     4917 bytes  spec/w3c/copy/manifest.ttl</tspan>
+<tspan x="10" y="5466">319.  2017-04-25 22:56:59 +0000      317 bytes  spec/w3c/csv-tsv-res/csvtsv01.csv</tspan>
+<tspan x="10" y="5482">320.  2017-04-25 22:56:59 +0000       76 bytes  spec/w3c/csv-tsv-res/csvtsv01.rq</tspan>
+<tspan x="10" y="5498">321.  2017-04-25 22:56:59 +0000      387 bytes  spec/w3c/csv-tsv-res/csvtsv01.tsv</tspan>
+<tspan x="10" y="5514">322.  2017-04-25 22:56:59 +0000      359 bytes  spec/w3c/csv-tsv-res/csvtsv02.csv</tspan>
+<tspan x="10" y="5530">323.  2017-04-25 22:56:59 +0000      108 bytes  spec/w3c/csv-tsv-res/csvtsv02.rq</tspan>
+<tspan x="10" y="5546">324.  2017-04-25 22:56:59 +0000      435 bytes  spec/w3c/csv-tsv-res/csvtsv02.tsv</tspan>
+<tspan x="10" y="5562">325.  2017-04-25 22:56:59 +0000      352 bytes  spec/w3c/csv-tsv-res/csvtsv03.csv</tspan>
+<tspan x="10" y="5578">326.  2017-04-25 22:56:59 +0000      604 bytes  spec/w3c/csv-tsv-res/csvtsv03.tsv</tspan>
+<tspan x="10" y="5594">327.  2017-04-25 22:56:59 +0000      186 bytes  spec/w3c/csv-tsv-res/data.ttl</tspan>
+<tspan x="10" y="5610">328.  2017-04-25 22:56:59 +0000      300 bytes  spec/w3c/csv-tsv-res/data2.ttl</tspan>
+<tspan x="10" y="5626">329.  2017-04-25 22:56:59 +0000     3042 bytes  spec/w3c/csv-tsv-res/manifest.ttl</tspan>
+<tspan x="10" y="5642">330.  2017-04-25 22:56:59 +0000      118 bytes  spec/w3c/delete-data/delete-data-01.ru</tspan>
+<tspan x="10" y="5658">331.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/delete-data/delete-data-02.ru</tspan>
+<tspan x="10" y="5674">332.  2017-04-25 22:56:59 +0000      118 bytes  spec/w3c/delete-data/delete-data-03.ru</tspan>
+<tspan x="10" y="5690">333.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/delete-data/delete-data-04.ru</tspan>
+<tspan x="10" y="5706">334.  2017-04-25 22:56:59 +0000      119 bytes  spec/w3c/delete-data/delete-data-05.ru</tspan>
+<tspan x="10" y="5722">335.  2017-04-25 22:56:59 +0000      154 bytes  spec/w3c/delete-data/delete-data-06.ru</tspan>
+<tspan x="10" y="5738">336.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/delete-data/delete-post-01f.ttl</tspan>
+<tspan x="10" y="5754">337.  2017-04-25 22:56:59 +0000      196 bytes  spec/w3c/delete-data/delete-post-01s.ttl</tspan>
+<tspan x="10" y="5770">338.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete-data/delete-post-02f.ttl</tspan>
+<tspan x="10" y="5786">339.  2017-04-25 22:56:59 +0000      213 bytes  spec/w3c/delete-data/delete-post-02s.ttl</tspan>
+<tspan x="10" y="5802">340.  2017-04-25 22:56:59 +0000      217 bytes  spec/w3c/delete-data/delete-post-03f.ttl</tspan>
+<tspan x="10" y="5818">341.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/delete-data/delete-pre-01.ttl</tspan>
+<tspan x="10" y="5834">342.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete-data/delete-pre-02.ttl</tspan>
+<tspan x="10" y="5850">343.  2017-04-25 22:56:59 +0000      217 bytes  spec/w3c/delete-data/delete-pre-03.ttl</tspan>
+<tspan x="10" y="5866">344.  2017-04-25 22:56:59 +0000     5012 bytes  spec/w3c/delete-data/manifest.ttl</tspan>
+<tspan x="10" y="5882">345.  2017-04-25 22:56:59 +0000      176 bytes  spec/w3c/delete-insert/delete-insert-01.ru</tspan>
+<tspan x="10" y="5898">346.  2017-04-25 22:56:59 +0000      209 bytes  spec/w3c/delete-insert/delete-insert-01b.ru</tspan>
+<tspan x="10" y="5914">347.  2017-04-25 22:56:59 +0000      210 bytes  spec/w3c/delete-insert/delete-insert-01c.ru</tspan>
+<tspan x="10" y="5930">348.  2017-04-25 22:56:59 +0000      129 bytes  spec/w3c/delete-insert/delete-insert-02.ru</tspan>
+<tspan x="10" y="5946">349.  2017-04-25 22:56:59 +0000      147 bytes  spec/w3c/delete-insert/delete-insert-03.ru</tspan>
+<tspan x="10" y="5962">350.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/delete-insert/delete-insert-03b.ru</tspan>
+<tspan x="10" y="5978">351.  2017-04-25 22:56:59 +0000      484 bytes  spec/w3c/delete-insert/delete-insert-04.ru</tspan>
+<tspan x="10" y="5994">352.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/delete-insert/delete-insert-04b.ru</tspan>
+<tspan x="10" y="6010">353.  2017-04-25 22:56:59 +0000      179 bytes  spec/w3c/delete-insert/delete-insert-05.ru</tspan>
+<tspan x="10" y="6026">354.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/delete-insert/delete-insert-05b.ru</tspan>
+<tspan x="10" y="6042">355.  2017-04-25 22:56:59 +0000      180 bytes  spec/w3c/delete-insert/delete-insert-07.ru</tspan>
+<tspan x="10" y="6058">356.  2017-04-25 22:56:59 +0000      198 bytes  spec/w3c/delete-insert/delete-insert-07b.ru</tspan>
+<tspan x="10" y="6074">357.  2017-04-25 22:56:59 +0000      117 bytes  spec/w3c/delete-insert/delete-insert-08.ru</tspan>
+<tspan x="10" y="6090">358.  2017-04-25 22:56:59 +0000       86 bytes  spec/w3c/delete-insert/delete-insert-09.ru</tspan>
+<tspan x="10" y="6106">359.  2017-04-25 22:56:59 +0000      335 bytes  spec/w3c/delete-insert/delete-insert-post-01.ttl</tspan>
+<tspan x="10" y="6122">360.  2017-04-25 22:56:59 +0000      279 bytes  spec/w3c/delete-insert/delete-insert-post-01b.tt\</tspan>
+<tspan x="10" y="6138">l</tspan>
+<tspan x="10" y="6154">361.  2017-04-25 22:56:59 +0000      297 bytes  spec/w3c/delete-insert/delete-insert-post-02.ttl</tspan>
+<tspan x="10" y="6170">362.  2017-04-25 22:56:59 +0000      315 bytes  spec/w3c/delete-insert/delete-insert-post-05.ttl</tspan>
+<tspan x="10" y="6186">363.  2017-04-25 22:56:59 +0000      316 bytes  spec/w3c/delete-insert/delete-insert-post-07.ttl</tspan>
+<tspan x="10" y="6202">364.  2017-04-25 22:56:59 +0000      338 bytes  spec/w3c/delete-insert/delete-insert-post-07b.tt\</tspan>
+<tspan x="10" y="6218">l</tspan>
+<tspan x="10" y="6234">365.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/delete-insert/delete-insert-post-08.ttl</tspan>
+<tspan x="10" y="6250">366.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/delete-insert/delete-insert-post-09.ttl</tspan>
+<tspan x="10" y="6266">367.  2017-04-25 22:56:59 +0000      335 bytes  spec/w3c/delete-insert/delete-insert-pre-01.ttl</tspan>
+<tspan x="10" y="6282">368.  2017-04-25 22:56:59 +0000      297 bytes  spec/w3c/delete-insert/delete-insert-pre-06.ttl</tspan>
+<tspan x="10" y="6298">369.  2017-04-25 22:56:59 +0000       68 bytes  spec/w3c/delete-insert/delete-insert-pre-08.ttl</tspan>
+<tspan x="10" y="6314">370.  2017-04-25 22:56:59 +0000       78 bytes  spec/w3c/delete-insert/delete-insert-pre-09.ttl</tspan>
+<tspan x="10" y="6330">371.  2017-04-25 22:56:59 +0000     9085 bytes  spec/w3c/delete-insert/manifest.ttl</tspan>
+<tspan x="10" y="6346">372.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/delete-where/delete-post-01f.ttl</tspan>
+<tspan x="10" y="6362">373.  2017-04-25 22:56:59 +0000      196 bytes  spec/w3c/delete-where/delete-post-01s.ttl</tspan>
+<tspan x="10" y="6378">374.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete-where/delete-post-02f.ttl</tspan>
+<tspan x="10" y="6394">375.  2017-04-25 22:56:59 +0000      213 bytes  spec/w3c/delete-where/delete-post-02s.ttl</tspan>
+<tspan x="10" y="6410">376.  2017-04-25 22:56:59 +0000      217 bytes  spec/w3c/delete-where/delete-post-03f.ttl</tspan>
+<tspan x="10" y="6426">377.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/delete-where/delete-pre-01.ttl</tspan>
+<tspan x="10" y="6442">378.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete-where/delete-pre-02.ttl</tspan>
+<tspan x="10" y="6458">379.  2017-04-25 22:56:59 +0000      217 bytes  spec/w3c/delete-where/delete-pre-03.ttl</tspan>
+<tspan x="10" y="6474">380.  2017-04-25 22:56:59 +0000      118 bytes  spec/w3c/delete-where/delete-where-01.ru</tspan>
+<tspan x="10" y="6490">381.  2017-04-25 22:56:59 +0000      151 bytes  spec/w3c/delete-where/delete-where-02.ru</tspan>
+<tspan x="10" y="6506">382.  2017-04-25 22:56:59 +0000      119 bytes  spec/w3c/delete-where/delete-where-03.ru</tspan>
+<tspan x="10" y="6522">383.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/delete-where/delete-where-04.ru</tspan>
+<tspan x="10" y="6538">384.  2017-04-25 22:56:59 +0000      120 bytes  spec/w3c/delete-where/delete-where-05.ru</tspan>
+<tspan x="10" y="6554">385.  2017-04-25 22:56:59 +0000      155 bytes  spec/w3c/delete-where/delete-where-06.ru</tspan>
+<tspan x="10" y="6570">386.  2017-04-25 22:56:59 +0000     5035 bytes  spec/w3c/delete-where/manifest.ttl</tspan>
+<tspan x="10" y="6586">387.  2017-04-25 22:56:59 +0000      147 bytes  spec/w3c/delete/delete-01.ru</tspan>
+<tspan x="10" y="6602">388.  2017-04-25 22:56:59 +0000      246 bytes  spec/w3c/delete/delete-02.ru</tspan>
+<tspan x="10" y="6618">389.  2017-04-25 22:56:59 +0000      149 bytes  spec/w3c/delete/delete-03.ru</tspan>
+<tspan x="10" y="6634">390.  2017-04-25 22:56:59 +0000      245 bytes  spec/w3c/delete/delete-04.ru</tspan>
+<tspan x="10" y="6650">391.  2017-04-25 22:56:59 +0000      149 bytes  spec/w3c/delete/delete-05.ru</tspan>
+<tspan x="10" y="6666">392.  2017-04-25 22:56:59 +0000      250 bytes  spec/w3c/delete/delete-06.ru</tspan>
+<tspan x="10" y="6682">393.  2017-04-25 22:56:59 +0000      136 bytes  spec/w3c/delete/delete-07.ru</tspan>
+<tspan x="10" y="6698">394.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/delete/delete-post-01f.ttl</tspan>
+<tspan x="10" y="6714">395.  2017-04-25 22:56:59 +0000      161 bytes  spec/w3c/delete/delete-post-01s.ttl</tspan>
+<tspan x="10" y="6730">396.  2017-04-25 22:56:59 +0000      140 bytes  spec/w3c/delete/delete-post-01s2.ttl</tspan>
+<tspan x="10" y="6746">397.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete/delete-post-02f.ttl</tspan>
+<tspan x="10" y="6762">398.  2017-04-25 22:56:59 +0000      178 bytes  spec/w3c/delete/delete-post-02s.ttl</tspan>
+<tspan x="10" y="6778">399.  2017-04-25 22:56:59 +0000      227 bytes  spec/w3c/delete/delete-post-03f.ttl</tspan>
+<tspan x="10" y="6794">400.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/delete/delete-pre-01.ttl</tspan>
+<tspan x="10" y="6810">401.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/delete/delete-pre-02.ttl</tspan>
+<tspan x="10" y="6826">402.  2017-04-25 22:56:59 +0000      227 bytes  spec/w3c/delete/delete-pre-03.ttl</tspan>
+<tspan x="10" y="6842">403.  2017-04-25 22:56:59 +0000      178 bytes  spec/w3c/delete/delete-using-01.ru</tspan>
+<tspan x="10" y="6858">404.  2017-04-25 22:56:59 +0000      244 bytes  spec/w3c/delete/delete-using-02.ru</tspan>
+<tspan x="10" y="6874">405.  2017-04-25 22:56:59 +0000      179 bytes  spec/w3c/delete/delete-using-03.ru</tspan>
+<tspan x="10" y="6890">406.  2017-04-25 22:56:59 +0000      243 bytes  spec/w3c/delete/delete-using-04.ru</tspan>
+<tspan x="10" y="6906">407.  2017-04-25 22:56:59 +0000      212 bytes  spec/w3c/delete/delete-using-05.ru</tspan>
+<tspan x="10" y="6922">408.  2017-04-25 22:56:59 +0000      280 bytes  spec/w3c/delete/delete-using-06.ru</tspan>
+<tspan x="10" y="6938">409.  2017-04-25 22:56:59 +0000      176 bytes  spec/w3c/delete/delete-with-01.ru</tspan>
+<tspan x="10" y="6954">410.  2017-04-25 22:56:59 +0000      275 bytes  spec/w3c/delete/delete-with-02.ru</tspan>
+<tspan x="10" y="6970">411.  2017-04-25 22:56:59 +0000      177 bytes  spec/w3c/delete/delete-with-03.ru</tspan>
+<tspan x="10" y="6986">412.  2017-04-25 22:56:59 +0000      274 bytes  spec/w3c/delete/delete-with-04.ru</tspan>
+<tspan x="10" y="7002">413.  2017-04-25 22:56:59 +0000      179 bytes  spec/w3c/delete/delete-with-05.ru</tspan>
+<tspan x="10" y="7018">414.  2017-04-25 22:56:59 +0000      279 bytes  spec/w3c/delete/delete-with-06.ru</tspan>
+<tspan x="10" y="7034">415.  2017-04-25 22:56:59 +0000    17300 bytes  spec/w3c/delete/manifest.ttl</tspan>
+<tspan x="10" y="7050">416.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/drop/drop-all-01.ru</tspan>
+<tspan x="10" y="7066">417.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/drop/drop-default-01.ru</tspan>
+<tspan x="10" y="7082">418.  2017-04-25 22:56:59 +0000       62 bytes  spec/w3c/drop/drop-default.ttl</tspan>
+<tspan x="10" y="7098">419.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/drop/drop-g1.ttl</tspan>
+<tspan x="10" y="7114">420.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/drop/drop-g2.ttl</tspan>
+<tspan x="10" y="7130">421.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/drop/drop-graph-01.ru</tspan>
+<tspan x="10" y="7146">422.  2017-04-25 22:56:59 +0000       48 bytes  spec/w3c/drop/drop-named-01.ru</tspan>
+<tspan x="10" y="7162">423.  2017-04-25 22:56:59 +0000     3818 bytes  spec/w3c/drop/manifest.ttl</tspan>
+<tspan x="10" y="7178">424.  2017-04-25 22:56:59 +0000      237 bytes  spec/w3c/entailment/bind-data.ttl</tspan>
+<tspan x="10" y="7194">425.  2017-04-25 22:56:59 +0000      214 bytes  spec/w3c/entailment/bind01.rq</tspan>
+<tspan x="10" y="7210">426.  2017-04-25 22:56:59 +0000      761 bytes  spec/w3c/entailment/bind01.srx</tspan>
+<tspan x="10" y="7226">427.  2017-04-25 22:56:59 +0000      243 bytes  spec/w3c/entailment/bind02.rq</tspan>
+<tspan x="10" y="7242">428.  2017-04-25 22:56:59 +0000     1808 bytes  spec/w3c/entailment/bind02.srx</tspan>
+<tspan x="10" y="7258">429.  2017-04-25 22:56:59 +0000      264 bytes  spec/w3c/entailment/bind03.rq</tspan>
+<tspan x="10" y="7274">430.  2017-04-25 22:56:59 +0000      885 bytes  spec/w3c/entailment/bind03.srx</tspan>
+<tspan x="10" y="7290">431.  2017-04-25 22:56:59 +0000      213 bytes  spec/w3c/entailment/bind04.rq</tspan>
+<tspan x="10" y="7306">432.  2017-04-25 22:56:59 +0000     1492 bytes  spec/w3c/entailment/bind04.srx</tspan>
+<tspan x="10" y="7322">433.  2017-04-25 22:56:59 +0000      240 bytes  spec/w3c/entailment/bind05.rq</tspan>
+<tspan x="10" y="7338">434.  2017-04-25 22:56:59 +0000      670 bytes  spec/w3c/entailment/bind05.srx</tspan>
+<tspan x="10" y="7354">435.  2017-04-25 22:56:59 +0000      213 bytes  spec/w3c/entailment/bind06.rq</tspan>
+<tspan x="10" y="7370">436.  2017-04-25 22:56:59 +0000     1988 bytes  spec/w3c/entailment/bind06.srx</tspan>
+<tspan x="10" y="7386">437.  2017-04-25 22:56:59 +0000      253 bytes  spec/w3c/entailment/bind07.rq</tspan>
+<tspan x="10" y="7402">438.  2017-04-25 22:56:59 +0000     2752 bytes  spec/w3c/entailment/bind07.srx</tspan>
+<tspan x="10" y="7418">439.  2017-04-25 22:56:59 +0000      240 bytes  spec/w3c/entailment/bind08.rq</tspan>
+<tspan x="10" y="7434">440.  2017-04-25 22:56:59 +0000      670 bytes  spec/w3c/entailment/bind08.srx</tspan>
+<tspan x="10" y="7450">441.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/entailment/d-ent-01.rq</tspan>
+<tspan x="10" y="7466">442.  2017-04-25 22:56:59 +0000      259 bytes  spec/w3c/entailment/d-ent-01.srx</tspan>
+<tspan x="10" y="7482">443.  2017-04-25 22:56:59 +0000      193 bytes  spec/w3c/entailment/d-ent-01.ttl</tspan>
+<tspan x="10" y="7498">444.  2017-04-25 22:56:59 +0000      244 bytes  spec/w3c/entailment/data-01.ttl</tspan>
+<tspan x="10" y="7514">445.  2017-04-25 22:56:59 +0000      495 bytes  spec/w3c/entailment/data-02.ttl</tspan>
+<tspan x="10" y="7530">446.  2017-04-25 22:56:59 +0000      512 bytes  spec/w3c/entailment/data-03.ttl</tspan>
+<tspan x="10" y="7546">447.  2017-04-25 22:56:59 +0000      639 bytes  spec/w3c/entailment/data-06.ttl</tspan>
+<tspan x="10" y="7562">448.  2017-04-25 22:56:59 +0000      647 bytes  spec/w3c/entailment/data-07.ttl</tspan>
+<tspan x="10" y="7578">449.  2017-04-25 22:56:59 +0000      484 bytes  spec/w3c/entailment/data-08.ttl</tspan>
+<tspan x="10" y="7594">450.  2017-04-25 22:56:59 +0000      581 bytes  spec/w3c/entailment/data-11.ttl</tspan>
+<tspan x="10" y="7610">451.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/entailment/lang.rq</tspan>
+<tspan x="10" y="7626">452.  2017-04-25 22:56:59 +0000      385 bytes  spec/w3c/entailment/lang.srx</tspan>
+<tspan x="10" y="7642">453.  2017-04-25 22:56:59 +0000      304 bytes  spec/w3c/entailment/lang.ttl</tspan>
+<tspan x="10" y="7658">454.  2017-04-25 22:56:59 +0000    27393 bytes  spec/w3c/entailment/manifest.ttl</tspan>
+<tspan x="10" y="7674">455.  2017-04-25 22:56:59 +0000      283 bytes  spec/w3c/entailment/owlds01.rq</tspan>
+<tspan x="10" y="7690">456.  2017-04-25 22:56:59 +0000      284 bytes  spec/w3c/entailment/owlds01.srx</tspan>
+<tspan x="10" y="7706">457.  2017-04-25 22:56:59 +0000      421 bytes  spec/w3c/entailment/owlds01.ttl</tspan>
+<tspan x="10" y="7722">458.  2017-04-25 22:56:59 +0000      207 bytes  spec/w3c/entailment/owlds02.rq</tspan>
+<tspan x="10" y="7738">459.  2017-04-25 22:56:59 +0000      669 bytes  spec/w3c/entailment/owlds02.srx</tspan>
+<tspan x="10" y="7754">460.  2017-04-25 22:56:59 +0000      461 bytes  spec/w3c/entailment/owlds02.ttl</tspan>
+<tspan x="10" y="7770">461.  2017-04-25 22:56:59 +0000      511 bytes  spec/w3c/entailment/paper-sparqldl-Q1-rdfs.srx</tspan>
+<tspan x="10" y="7786">462.  2017-04-25 22:56:59 +0000      145 bytes  spec/w3c/entailment/paper-sparqldl-Q1.rq</tspan>
+<tspan x="10" y="7802">463.  2017-04-25 22:56:59 +0000      637 bytes  spec/w3c/entailment/paper-sparqldl-Q1.srx</tspan>
+<tspan x="10" y="7818">464.  2017-04-25 22:56:59 +0000      314 bytes  spec/w3c/entailment/paper-sparqldl-Q2.rq</tspan>
+<tspan x="10" y="7834">465.  2017-04-25 22:56:59 +0000      485 bytes  spec/w3c/entailment/paper-sparqldl-Q2.srx</tspan>
+<tspan x="10" y="7850">466.  2017-04-25 22:56:59 +0000      468 bytes  spec/w3c/entailment/paper-sparqldl-Q3.rq</tspan>
+<tspan x="10" y="7866">467.  2017-04-25 22:56:59 +0000      498 bytes  spec/w3c/entailment/paper-sparqldl-Q3.srx</tspan>
+<tspan x="10" y="7882">468.  2017-04-25 22:56:59 +0000      254 bytes  spec/w3c/entailment/paper-sparqldl-Q4.rq</tspan>
+<tspan x="10" y="7898">469.  2017-04-25 22:56:59 +0000      711 bytes  spec/w3c/entailment/paper-sparqldl-Q4.srx</tspan>
+<tspan x="10" y="7914">470.  2017-04-25 22:56:59 +0000      275 bytes  spec/w3c/entailment/paper-sparqldl-Q5.rq</tspan>
+<tspan x="10" y="7930">471.  2017-04-25 22:56:59 +0000      505 bytes  spec/w3c/entailment/paper-sparqldl-Q5.srx</tspan>
+<tspan x="10" y="7946">472.  2017-04-25 22:56:59 +0000     1245 bytes  spec/w3c/entailment/paper-sparqldl-data.ttl</tspan>
+<tspan x="10" y="7962">473.  2017-04-25 22:56:59 +0000     1289 bytes  spec/w3c/entailment/parent.ttl</tspan>
+<tspan x="10" y="7978">474.  2017-04-25 22:56:59 +0000      327 bytes  spec/w3c/entailment/parent10.rq</tspan>
+<tspan x="10" y="7994">475.  2017-04-25 22:56:59 +0000      632 bytes  spec/w3c/entailment/parent10.srx</tspan>
+<tspan x="10" y="8010">476.  2017-04-25 22:56:59 +0000       86 bytes  spec/w3c/entailment/parent2.rq</tspan>
+<tspan x="10" y="8026">477.  2017-04-25 22:56:59 +0000      528 bytes  spec/w3c/entailment/parent2.srx</tspan>
+<tspan x="10" y="8042">478.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/entailment/parent3.rq</tspan>
+<tspan x="10" y="8058">479.  2017-04-25 22:56:59 +0000      651 bytes  spec/w3c/entailment/parent3.srx</tspan>
+<tspan x="10" y="8074">480.  2017-04-25 22:56:59 +0000      348 bytes  spec/w3c/entailment/parent4.rq</tspan>
+<tspan x="10" y="8090">481.  2017-04-25 22:56:59 +0000      651 bytes  spec/w3c/entailment/parent4.srx</tspan>
+<tspan x="10" y="8106">482.  2017-04-25 22:56:59 +0000      212 bytes  spec/w3c/entailment/parent5.rq</tspan>
+<tspan x="10" y="8122">483.  2017-04-25 22:56:59 +0000      407 bytes  spec/w3c/entailment/parent5.srx</tspan>
+<tspan x="10" y="8138">484.  2017-04-25 22:56:59 +0000      321 bytes  spec/w3c/entailment/parent6.rq</tspan>
+<tspan x="10" y="8154">485.  2017-04-25 22:56:59 +0000      407 bytes  spec/w3c/entailment/parent6.srx</tspan>
+<tspan x="10" y="8170">486.  2017-04-25 22:56:59 +0000      320 bytes  spec/w3c/entailment/parent7.rq</tspan>
+<tspan x="10" y="8186">487.  2017-04-25 22:56:59 +0000      407 bytes  spec/w3c/entailment/parent7.srx</tspan>
+<tspan x="10" y="8202">488.  2017-04-25 22:56:59 +0000      317 bytes  spec/w3c/entailment/parent8.rq</tspan>
+<tspan x="10" y="8218">489.  2017-04-25 22:56:59 +0000      406 bytes  spec/w3c/entailment/parent8.srx</tspan>
+<tspan x="10" y="8234">490.  2017-04-25 22:56:59 +0000      280 bytes  spec/w3c/entailment/parent9.rq</tspan>
+<tspan x="10" y="8250">491.  2017-04-25 22:56:59 +0000      766 bytes  spec/w3c/entailment/parent9.srx</tspan>
+<tspan x="10" y="8266">492.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/entailment/plainLit.rq</tspan>
+<tspan x="10" y="8282">493.  2017-04-25 22:56:59 +0000      385 bytes  spec/w3c/entailment/plainLit.srx</tspan>
+<tspan x="10" y="8298">494.  2017-04-25 22:56:59 +0000      304 bytes  spec/w3c/entailment/plainLit.ttl</tspan>
+<tspan x="10" y="8314">495.  2017-04-25 22:56:59 +0000      142 bytes  spec/w3c/entailment/rdf01.rq</tspan>
+<tspan x="10" y="8330">496.  2017-04-25 22:56:59 +0000      407 bytes  spec/w3c/entailment/rdf01.srx</tspan>
+<tspan x="10" y="8346">497.  2017-04-25 22:56:59 +0000      220 bytes  spec/w3c/entailment/rdf01.ttl</tspan>
+<tspan x="10" y="8362">498.  2017-04-25 22:56:59 +0000      143 bytes  spec/w3c/entailment/rdf02.rq</tspan>
+<tspan x="10" y="8378">499.  2017-04-25 22:56:59 +0000      390 bytes  spec/w3c/entailment/rdf02.srx</tspan>
+<tspan x="10" y="8394">500.  2017-04-25 22:56:59 +0000      127 bytes  spec/w3c/entailment/rdf02.ttl</tspan>
+<tspan x="10" y="8410">501.  2017-04-25 22:56:59 +0000       74 bytes  spec/w3c/entailment/rdf03.rq</tspan>
+<tspan x="10" y="8426">502.  2017-04-25 22:56:59 +0000      497 bytes  spec/w3c/entailment/rdf03.srx</tspan>
+<tspan x="10" y="8442">503.  2017-04-25 22:56:59 +0000      158 bytes  spec/w3c/entailment/rdf03.ttl</tspan>
+<tspan x="10" y="8458">504.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/entailment/rdf04.rq</tspan>
+<tspan x="10" y="8474">505.  2017-04-25 22:56:59 +0000      382 bytes  spec/w3c/entailment/rdf04.srx</tspan>
+<tspan x="10" y="8490">506.  2017-04-25 22:56:59 +0000      302 bytes  spec/w3c/entailment/rdf04.ttl</tspan>
+<tspan x="10" y="8506">507.  2017-04-25 22:56:59 +0000       74 bytes  spec/w3c/entailment/rdfs01.rq</tspan>
+<tspan x="10" y="8522">508.  2017-04-25 22:56:59 +0000      497 bytes  spec/w3c/entailment/rdfs01.srx</tspan>
+<tspan x="10" y="8538">509.  2017-04-25 22:56:59 +0000      341 bytes  spec/w3c/entailment/rdfs01.ttl</tspan>
+<tspan x="10" y="8554">510.  2017-04-25 22:56:59 +0000       75 bytes  spec/w3c/entailment/rdfs02.rq</tspan>
+<tspan x="10" y="8570">511.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs02.srx</tspan>
+<tspan x="10" y="8586">512.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/entailment/rdfs03.rq</tspan>
+<tspan x="10" y="8602">513.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs03.srx</tspan>
+<tspan x="10" y="8618">514.  2017-04-25 22:56:59 +0000      175 bytes  spec/w3c/entailment/rdfs03.ttl</tspan>
+<tspan x="10" y="8634">515.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/entailment/rdfs04.rq</tspan>
+<tspan x="10" y="8650">516.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs04.srx</tspan>
+<tspan x="10" y="8666">517.  2017-04-25 22:56:59 +0000      357 bytes  spec/w3c/entailment/rdfs04.ttl</tspan>
+<tspan x="10" y="8682">518.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/entailment/rdfs05.rq</tspan>
+<tspan x="10" y="8698">519.  2017-04-25 22:56:59 +0000      686 bytes  spec/w3c/entailment/rdfs05.srx</tspan>
+<tspan x="10" y="8714">520.  2017-04-25 22:56:59 +0000      407 bytes  spec/w3c/entailment/rdfs05.ttl</tspan>
+<tspan x="10" y="8730">521.  2017-04-25 22:56:59 +0000      140 bytes  spec/w3c/entailment/rdfs06.rq</tspan>
+<tspan x="10" y="8746">522.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs06.srx</tspan>
+<tspan x="10" y="8762">523.  2017-04-25 22:56:59 +0000      327 bytes  spec/w3c/entailment/rdfs06.ttl</tspan>
+<tspan x="10" y="8778">524.  2017-04-25 22:56:59 +0000      140 bytes  spec/w3c/entailment/rdfs07.rq</tspan>
+<tspan x="10" y="8794">525.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs07.srx</tspan>
+<tspan x="10" y="8810">526.  2017-04-25 22:56:59 +0000      326 bytes  spec/w3c/entailment/rdfs07.ttl</tspan>
+<tspan x="10" y="8826">527.  2017-04-25 22:56:59 +0000      133 bytes  spec/w3c/entailment/rdfs08.rq</tspan>
+<tspan x="10" y="8842">528.  2017-04-25 22:56:59 +0000      413 bytes  spec/w3c/entailment/rdfs08.srx</tspan>
+<tspan x="10" y="8858">529.  2017-04-25 22:56:59 +0000      298 bytes  spec/w3c/entailment/rdfs08.ttl</tspan>
+<tspan x="10" y="8874">530.  2017-04-25 22:56:59 +0000      137 bytes  spec/w3c/entailment/rdfs09.rq</tspan>
+<tspan x="10" y="8890">531.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/entailment/rdfs09.srx</tspan>
+<tspan x="10" y="8906">532.  2017-04-25 22:56:59 +0000      445 bytes  spec/w3c/entailment/rdfs09.ttl</tspan>
+<tspan x="10" y="8922">533.  2017-04-25 22:56:59 +0000      128 bytes  spec/w3c/entailment/rdfs10.rq</tspan>
+<tspan x="10" y="8938">534.  2017-04-25 22:56:59 +0000      493 bytes  spec/w3c/entailment/rdfs10.srx</tspan>
+<tspan x="10" y="8954">535.  2017-04-25 22:56:59 +0000      454 bytes  spec/w3c/entailment/rdfs10.ttl</tspan>
+<tspan x="10" y="8970">536.  2017-04-25 22:56:59 +0000      214 bytes  spec/w3c/entailment/rdfs11.rq</tspan>
+<tspan x="10" y="8986">537.  2017-04-25 22:56:59 +0000      495 bytes  spec/w3c/entailment/rdfs11.srx</tspan>
+<tspan x="10" y="9002">538.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/entailment/rdfs11.ttl</tspan>
+<tspan x="10" y="9018">539.  2017-04-25 22:56:59 +0000      201 bytes  spec/w3c/entailment/rdfs12.rq</tspan>
+<tspan x="10" y="9034">540.  2017-04-25 22:56:59 +0000      387 bytes  spec/w3c/entailment/rdfs12.srx</tspan>
+<tspan x="10" y="9050">541.  2017-04-25 22:56:59 +0000      299 bytes  spec/w3c/entailment/rdfs12.ttl</tspan>
+<tspan x="10" y="9066">542.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/entailment/rdfs13.rq</tspan>
+<tspan x="10" y="9082">543.  2017-04-25 22:56:59 +0000      259 bytes  spec/w3c/entailment/rdfs13.srx</tspan>
+<tspan x="10" y="9098">544.  2017-04-25 22:56:59 +0000      221 bytes  spec/w3c/entailment/rdfs13.ttl</tspan>
+<tspan x="10" y="9114">545.  2017-04-25 22:56:59 +0000      448 bytes  spec/w3c/entailment/simple.ttl</tspan>
+<tspan x="10" y="9130">546.  2017-04-25 22:56:59 +0000      212 bytes  spec/w3c/entailment/simple1.rq</tspan>
+<tspan x="10" y="9146">547.  2017-04-25 22:56:59 +0000      506 bytes  spec/w3c/entailment/simple1.srx</tspan>
+<tspan x="10" y="9162">548.  2017-04-25 22:56:59 +0000      333 bytes  spec/w3c/entailment/simple2.rq</tspan>
+<tspan x="10" y="9178">549.  2017-04-25 22:56:59 +0000      391 bytes  spec/w3c/entailment/simple2.srx</tspan>
+<tspan x="10" y="9194">550.  2017-04-25 22:56:59 +0000      312 bytes  spec/w3c/entailment/simple3.rq</tspan>
+<tspan x="10" y="9210">551.  2017-04-25 22:56:59 +0000      392 bytes  spec/w3c/entailment/simple3.srx</tspan>
+<tspan x="10" y="9226">552.  2017-04-25 22:56:59 +0000      226 bytes  spec/w3c/entailment/simple4.rq</tspan>
+<tspan x="10" y="9242">553.  2017-04-25 22:56:59 +0000      737 bytes  spec/w3c/entailment/simple4.srx</tspan>
+<tspan x="10" y="9258">554.  2017-04-25 22:56:59 +0000      331 bytes  spec/w3c/entailment/simple5.rq</tspan>
+<tspan x="10" y="9274">555.  2017-04-25 22:56:59 +0000      506 bytes  spec/w3c/entailment/simple5.srx</tspan>
+<tspan x="10" y="9290">556.  2017-04-25 22:56:59 +0000      332 bytes  spec/w3c/entailment/simple6.rq</tspan>
+<tspan x="10" y="9306">557.  2017-04-25 22:56:59 +0000      622 bytes  spec/w3c/entailment/simple6.srx</tspan>
+<tspan x="10" y="9322">558.  2017-04-25 22:56:59 +0000      351 bytes  spec/w3c/entailment/simple7.rq</tspan>
+<tspan x="10" y="9338">559.  2017-04-25 22:56:59 +0000      506 bytes  spec/w3c/entailment/simple7.srx</tspan>
+<tspan x="10" y="9354">560.  2017-04-25 22:56:59 +0000      369 bytes  spec/w3c/entailment/simple8.rq</tspan>
+<tspan x="10" y="9370">561.  2017-04-25 22:56:59 +0000      392 bytes  spec/w3c/entailment/simple8.srx</tspan>
+<tspan x="10" y="9386">562.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/entailment/sparqldl-01.rq</tspan>
+<tspan x="10" y="9402">563.  2017-04-25 22:56:59 +0000      382 bytes  spec/w3c/entailment/sparqldl-01.srx</tspan>
+<tspan x="10" y="9418">564.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/entailment/sparqldl-02.rq</tspan>
+<tspan x="10" y="9434">565.  2017-04-25 22:56:59 +0000      491 bytes  spec/w3c/entailment/sparqldl-02.srx</tspan>
+<tspan x="10" y="9450">566.  2017-04-25 22:56:59 +0000      232 bytes  spec/w3c/entailment/sparqldl-03.rq</tspan>
+<tspan x="10" y="9466">567.  2017-04-25 22:56:59 +0000      491 bytes  spec/w3c/entailment/sparqldl-03.srx</tspan>
+<tspan x="10" y="9482">568.  2017-04-25 22:56:59 +0000      195 bytes  spec/w3c/entailment/sparqldl-04.rq</tspan>
+<tspan x="10" y="9498">569.  2017-04-25 22:56:59 +0000      847 bytes  spec/w3c/entailment/sparqldl-04.srx</tspan>
+<tspan x="10" y="9514">570.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/entailment/sparqldl-05.rq</tspan>
+<tspan x="10" y="9530">571.  2017-04-25 22:56:59 +0000      315 bytes  spec/w3c/entailment/sparqldl-05.srx</tspan>
+<tspan x="10" y="9546">572.  2017-04-25 22:56:59 +0000      223 bytes  spec/w3c/entailment/sparqldl-06.rq</tspan>
+<tspan x="10" y="9562">573.  2017-04-25 22:56:59 +0000      316 bytes  spec/w3c/entailment/sparqldl-06.srx</tspan>
+<tspan x="10" y="9578">574.  2017-04-25 22:56:59 +0000      219 bytes  spec/w3c/entailment/sparqldl-07.rq</tspan>
+<tspan x="10" y="9594">575.  2017-04-25 22:56:59 +0000      612 bytes  spec/w3c/entailment/sparqldl-07.srx</tspan>
+<tspan x="10" y="9610">576.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/entailment/sparqldl-08.rq</tspan>
+<tspan x="10" y="9626">577.  2017-04-25 22:56:59 +0000      498 bytes  spec/w3c/entailment/sparqldl-08.srx</tspan>
+<tspan x="10" y="9642">578.  2017-04-25 22:56:59 +0000      411 bytes  spec/w3c/entailment/sparqldl-09.rq</tspan>
+<tspan x="10" y="9658">579.  2017-04-25 22:56:59 +0000      899 bytes  spec/w3c/entailment/sparqldl-09.srx</tspan>
+<tspan x="10" y="9674">580.  2017-04-25 22:56:59 +0000      274 bytes  spec/w3c/entailment/sparqldl-10.rq</tspan>
+<tspan x="10" y="9690">581.  2017-04-25 22:56:59 +0000      899 bytes  spec/w3c/entailment/sparqldl-10.srx</tspan>
+<tspan x="10" y="9706">582.  2017-04-25 22:56:59 +0000      167 bytes  spec/w3c/entailment/sparqldl-11.rq</tspan>
+<tspan x="10" y="9722">583.  2017-04-25 22:56:59 +0000      506 bytes  spec/w3c/entailment/sparqldl-11.srx</tspan>
+<tspan x="10" y="9738">584.  2017-04-25 22:56:59 +0000      167 bytes  spec/w3c/entailment/sparqldl-12.rq</tspan>
+<tspan x="10" y="9754">585.  2017-04-25 22:56:59 +0000      506 bytes  spec/w3c/entailment/sparqldl-12.srx</tspan>
+<tspan x="10" y="9770">586.  2017-04-25 22:56:59 +0000      237 bytes  spec/w3c/entailment/sparqldl-13.rq</tspan>
+<tspan x="10" y="9786">587.  2017-04-25 22:56:59 +0000     1473 bytes  spec/w3c/entailment/sparqldl-13.srx</tspan>
+<tspan x="10" y="9802">588.  2017-04-25 22:56:59 +0000       93 bytes  spec/w3c/exists/exists01.rq</tspan>
+<tspan x="10" y="9818">589.  2017-04-25 22:56:59 +0000      821 bytes  spec/w3c/exists/exists01.srx</tspan>
+<tspan x="10" y="9834">590.  2017-04-25 22:56:59 +0000       75 bytes  spec/w3c/exists/exists01.ttl</tspan>
+<tspan x="10" y="9850">591.  2017-04-25 22:56:59 +0000      100 bytes  spec/w3c/exists/exists02.rq</tspan>
+<tspan x="10" y="9866">592.  2017-04-25 22:56:59 +0000      460 bytes  spec/w3c/exists/exists02.srx</tspan>
+<tspan x="10" y="9882">593.  2017-04-25 22:56:59 +0000       66 bytes  spec/w3c/exists/exists02.ttl</tspan>
+<tspan x="10" y="9898">594.  2017-04-25 22:56:59 +0000      131 bytes  spec/w3c/exists/exists03.rq</tspan>
+<tspan x="10" y="9914">595.  2017-04-25 22:56:59 +0000      312 bytes  spec/w3c/exists/exists03.srx</tspan>
+<tspan x="10" y="9930">596.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/exists/exists04.rq</tspan>
+<tspan x="10" y="9946">597.  2017-04-25 22:56:59 +0000      312 bytes  spec/w3c/exists/exists04.srx</tspan>
+<tspan x="10" y="9962">598.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/exists/exists05.rq</tspan>
+<tspan x="10" y="9978">599.  2017-04-25 22:56:59 +0000      165 bytes  spec/w3c/exists/exists05.srx</tspan>
+<tspan x="10" y="9994">600.  2017-04-25 22:56:59 +0000     2690 bytes  spec/w3c/exists/manifest.ttl</tspan>
+<tspan x="10" y="10010">601.  2017-04-25 22:56:59 +0000     1988 bytes  spec/w3c/functions.ttl</tspan>
+<tspan x="10" y="10026">602.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/functions/abs01.rq</tspan>
+<tspan x="10" y="10042">603.  2017-04-25 22:56:59 +0000      576 bytes  spec/w3c/functions/abs01.srx</tspan>
+<tspan x="10" y="10058">604.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/functions/bnode01.rq</tspan>
+<tspan x="10" y="10074">605.  2017-04-25 22:56:59 +0000     1166 bytes  spec/w3c/functions/bnode01.srx</tspan>
+<tspan x="10" y="10090">606.  2017-04-25 22:56:59 +0000      129 bytes  spec/w3c/functions/bnode02.rq</tspan>
+<tspan x="10" y="10106">607.  2017-04-25 22:56:59 +0000      311 bytes  spec/w3c/functions/bnode02.srx</tspan>
+<tspan x="10" y="10122">608.  2017-04-25 22:56:59 +0000      140 bytes  spec/w3c/functions/ceil01.rq</tspan>
+<tspan x="10" y="10138">609.  2017-04-25 22:56:59 +0000     1724 bytes  spec/w3c/functions/ceil01.srx</tspan>
+<tspan x="10" y="10154">610.  2017-04-25 22:56:59 +0000      384 bytes  spec/w3c/functions/coalesce01.rq</tspan>
+<tspan x="10" y="10170">611.  2017-04-25 22:56:59 +0000     1608 bytes  spec/w3c/functions/coalesce01.srx</tspan>
+<tspan x="10" y="10186">612.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/functions/concat01.rq</tspan>
+<tspan x="10" y="10202">613.  2017-04-25 22:56:59 +0000      298 bytes  spec/w3c/functions/concat01.srx</tspan>
+<tspan x="10" y="10218">614.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/functions/concat02.rq</tspan>
+<tspan x="10" y="10234">615.  2017-04-25 22:56:59 +0000     3722 bytes  spec/w3c/functions/concat02.srx</tspan>
+<tspan x="10" y="10250">616.  2017-04-25 22:56:59 +0000      146 bytes  spec/w3c/functions/contains01.rq</tspan>
+<tspan x="10" y="10266">617.  2017-04-25 22:56:59 +0000      538 bytes  spec/w3c/functions/contains01.srx</tspan>
+<tspan x="10" y="10282">618.  2017-04-25 22:56:59 +0000      288 bytes  spec/w3c/functions/data-builtin-3.ttl</tspan>
+<tspan x="10" y="10298">619.  2017-04-25 22:56:59 +0000      166 bytes  spec/w3c/functions/data-coalesce.ttl</tspan>
+<tspan x="10" y="10314">620.  2017-04-25 22:56:59 +0000        0 bytes  spec/w3c/functions/data-empty.nt</tspan>
+<tspan x="10" y="10330">621.  2017-04-25 22:56:59 +0000      556 bytes  spec/w3c/functions/data.ttl</tspan>
+<tspan x="10" y="10346">622.  2017-04-25 22:56:59 +0000      253 bytes  spec/w3c/functions/data2.ttl</tspan>
+<tspan x="10" y="10362">623.  2017-04-25 22:56:59 +0000      288 bytes  spec/w3c/functions/data3.ttl</tspan>
+<tspan x="10" y="10378">624.  2017-04-25 22:56:59 +0000      152 bytes  spec/w3c/functions/data4.ttl</tspan>
+<tspan x="10" y="10394">625.  2017-04-25 22:56:59 +0000       86 bytes  spec/w3c/functions/day-01.rq</tspan>
+<tspan x="10" y="10410">626.  2017-04-25 22:56:59 +0000      952 bytes  spec/w3c/functions/day-01.srx</tspan>
+<tspan x="10" y="10426">627.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/functions/encode01.rq</tspan>
+<tspan x="10" y="10442">628.  2017-04-25 22:56:59 +0000     1786 bytes  spec/w3c/functions/encode01.srx</tspan>
+<tspan x="10" y="10458">629.  2017-04-25 22:56:59 +0000      144 bytes  spec/w3c/functions/ends01.rq</tspan>
+<tspan x="10" y="10474">630.  2017-04-25 22:56:59 +0000      381 bytes  spec/w3c/functions/ends01.srx</tspan>
+<tspan x="10" y="10490">631.  2017-04-25 22:56:59 +0000      142 bytes  spec/w3c/functions/floor01.rq</tspan>
+<tspan x="10" y="10506">632.  2017-04-25 22:56:59 +0000     1730 bytes  spec/w3c/functions/floor01.srx</tspan>
+<tspan x="10" y="10522">633.  2017-04-25 22:56:59 +0000      120 bytes  spec/w3c/functions/hash-unicode.ttl</tspan>
+<tspan x="10" y="10538">634.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/functions/hours-01.rq</tspan>
+<tspan x="10" y="10554">635.  2017-04-25 22:56:59 +0000      952 bytes  spec/w3c/functions/hours-01.srx</tspan>
+<tspan x="10" y="10570">636.  2017-04-25 22:56:59 +0000      152 bytes  spec/w3c/functions/if01.rq</tspan>
+<tspan x="10" y="10586">637.  2017-04-25 22:56:59 +0000     2028 bytes  spec/w3c/functions/if01.srx</tspan>
+<tspan x="10" y="10602">638.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/functions/if02.rq</tspan>
+<tspan x="10" y="10618">639.  2017-04-25 22:56:59 +0000      191 bytes  spec/w3c/functions/if02.srx</tspan>
+<tspan x="10" y="10634">640.  2017-04-25 22:56:59 +0000       32 bytes  spec/w3c/functions/in01.rq</tspan>
+<tspan x="10" y="10650">641.  2017-04-25 22:56:59 +0000      137 bytes  spec/w3c/functions/in01.srx</tspan>
+<tspan x="10" y="10666">642.  2017-04-25 22:56:59 +0000       29 bytes  spec/w3c/functions/in02.rq</tspan>
+<tspan x="10" y="10682">643.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/functions/in02.srx</tspan>
+<tspan x="10" y="10698">644.  2017-04-25 22:56:59 +0000       85 bytes  spec/w3c/functions/iri01.rq</tspan>
+<tspan x="10" y="10714">645.  2017-04-25 22:56:59 +0000      347 bytes  spec/w3c/functions/iri01.srx</tspan>
+<tspan x="10" y="10730">646.  2017-04-25 22:56:59 +0000       92 bytes  spec/w3c/functions/isnumeric01.rq</tspan>
+<tspan x="10" y="10746">647.  2017-04-25 22:56:59 +0000     1161 bytes  spec/w3c/functions/isnumeric01.srx</tspan>
+<tspan x="10" y="10762">648.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/functions/lcase01.rq</tspan>
+<tspan x="10" y="10778">649.  2017-04-25 22:56:59 +0000     1319 bytes  spec/w3c/functions/lcase01.srx</tspan>
+<tspan x="10" y="10794">650.  2017-04-25 22:56:59 +0000       90 bytes  spec/w3c/functions/length01.rq</tspan>
+<tspan x="10" y="10810">651.  2017-04-25 22:56:59 +0000     1607 bytes  spec/w3c/functions/length01.srx</tspan>
+<tspan x="10" y="10826">652.  2017-04-25 22:56:59 +0000    23934 bytes  spec/w3c/functions/manifest.ttl</tspan>
+<tspan x="10" y="10842">653.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/functions/md5-01.rq</tspan>
+<tspan x="10" y="10858">654.  2017-04-25 22:56:59 +0000      275 bytes  spec/w3c/functions/md5-01.srx</tspan>
+<tspan x="10" y="10874">655.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/functions/md5-02.rq</tspan>
+<tspan x="10" y="10890">656.  2017-04-25 22:56:59 +0000      275 bytes  spec/w3c/functions/md5-02.srx</tspan>
+<tspan x="10" y="10906">657.  2017-04-25 22:56:59 +0000       90 bytes  spec/w3c/functions/minutes-01.rq</tspan>
+<tspan x="10" y="10922">658.  2017-04-25 22:56:59 +0000      952 bytes  spec/w3c/functions/minutes-01.srx</tspan>
+<tspan x="10" y="10938">659.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/functions/month-01.rq</tspan>
+<tspan x="10" y="10954">660.  2017-04-25 22:56:59 +0000      950 bytes  spec/w3c/functions/month-01.srx</tspan>
+<tspan x="10" y="10970">661.  2017-04-25 22:56:59 +0000       29 bytes  spec/w3c/functions/notin01.rq</tspan>
+<tspan x="10" y="10986">662.  2017-04-25 22:56:59 +0000      137 bytes  spec/w3c/functions/notin01.srx</tspan>
+<tspan x="10" y="11002">663.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/functions/notin02.rq</tspan>
+<tspan x="10" y="11018">664.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/functions/notin02.srx</tspan>
+<tspan x="10" y="11034">665.  2017-04-25 22:56:59 +0000      112 bytes  spec/w3c/functions/now01.rq</tspan>
+<tspan x="10" y="11050">666.  2017-04-25 22:56:59 +0000      137 bytes  spec/w3c/functions/now01.srx</tspan>
+<tspan x="10" y="11066">667.  2017-04-25 22:56:59 +0000      119 bytes  spec/w3c/functions/plus-1.rq</tspan>
+<tspan x="10" y="11082">668.  2017-04-25 22:56:59 +0000     2233 bytes  spec/w3c/functions/plus-1.srx</tspan>
+<tspan x="10" y="11098">669.  2017-04-25 22:56:59 +0000      130 bytes  spec/w3c/functions/plus-2.rq</tspan>
+<tspan x="10" y="11114">670.  2017-04-25 22:56:59 +0000     1981 bytes  spec/w3c/functions/plus-2.srx</tspan>
+<tspan x="10" y="11130">671.  2017-04-25 22:56:59 +0000      136 bytes  spec/w3c/functions/rand01.rq</tspan>
+<tspan x="10" y="11146">672.  2017-04-25 22:56:59 +0000      143 bytes  spec/w3c/functions/rand01.srx</tspan>
+<tspan x="10" y="11162">673.  2017-04-25 22:56:59 +0000      154 bytes  spec/w3c/functions/replace01.rq</tspan>
+<tspan x="10" y="11178">674.  2017-04-25 22:56:59 +0000     1575 bytes  spec/w3c/functions/replace01.srx</tspan>
+<tspan x="10" y="11194">675.  2017-04-25 22:56:59 +0000      146 bytes  spec/w3c/functions/replace02.rq</tspan>
+<tspan x="10" y="11210">676.  2017-04-25 22:56:59 +0000      245 bytes  spec/w3c/functions/replace02.srx</tspan>
+<tspan x="10" y="11226">677.  2017-04-25 22:56:59 +0000      162 bytes  spec/w3c/functions/replace03.rq</tspan>
+<tspan x="10" y="11242">678.  2017-04-25 22:56:59 +0000      253 bytes  spec/w3c/functions/replace03.srx</tspan>
+<tspan x="10" y="11258">679.  2017-04-25 22:56:59 +0000      142 bytes  spec/w3c/functions/round01.rq</tspan>
+<tspan x="10" y="11274">680.  2017-04-25 22:56:59 +0000     1730 bytes  spec/w3c/functions/round01.srx</tspan>
+<tspan x="10" y="11290">681.  2017-04-25 22:56:59 +0000       90 bytes  spec/w3c/functions/seconds-01.rq</tspan>
+<tspan x="10" y="11306">682.  2017-04-25 22:56:59 +0000      949 bytes  spec/w3c/functions/seconds-01.srx</tspan>
+<tspan x="10" y="11322">683.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/functions/sha1-01.rq</tspan>
+<tspan x="10" y="11338">684.  2017-04-25 22:56:59 +0000      283 bytes  spec/w3c/functions/sha1-01.srx</tspan>
+<tspan x="10" y="11354">685.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/functions/sha1-02.rq</tspan>
+<tspan x="10" y="11370">686.  2017-04-25 22:56:59 +0000      283 bytes  spec/w3c/functions/sha1-02.srx</tspan>
+<tspan x="10" y="11386">687.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/functions/sha256-01.rq</tspan>
+<tspan x="10" y="11402">688.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/functions/sha256-01.srx</tspan>
+<tspan x="10" y="11418">689.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/functions/sha256-02.rq</tspan>
+<tspan x="10" y="11434">690.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/functions/sha256-02.srx</tspan>
+<tspan x="10" y="11450">691.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/functions/sha512-01.rq</tspan>
+<tspan x="10" y="11466">692.  2017-04-25 22:56:59 +0000      371 bytes  spec/w3c/functions/sha512-01.srx</tspan>
+<tspan x="10" y="11482">693.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/functions/sha512-02.rq</tspan>
+<tspan x="10" y="11498">694.  2017-04-25 22:56:59 +0000      371 bytes  spec/w3c/functions/sha512-02.srx</tspan>
+<tspan x="10" y="11514">695.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/functions/starts01.rq</tspan>
+<tspan x="10" y="11530">696.  2017-04-25 22:56:59 +0000      526 bytes  spec/w3c/functions/starts01.srx</tspan>
+<tspan x="10" y="11546">697.  2017-04-25 22:56:59 +0000      145 bytes  spec/w3c/functions/strafter01.rq</tspan>
+<tspan x="10" y="11562">698.  2017-04-25 22:56:59 +0000     1286 bytes  spec/w3c/functions/strafter01.srx</tspan>
+<tspan x="10" y="11578">699.  2017-04-25 22:56:59 +0000     1207 bytes  spec/w3c/functions/strafter01a.srx</tspan>
+<tspan x="10" y="11594">700.  2017-04-25 22:56:59 +0000      361 bytes  spec/w3c/functions/strafter02.rq</tspan>
+<tspan x="10" y="11610">701.  2017-04-25 22:56:59 +0000     1989 bytes  spec/w3c/functions/strafter02.srx</tspan>
+<tspan x="10" y="11626">702.  2017-04-25 22:56:59 +0000      146 bytes  spec/w3c/functions/strbefore01.rq</tspan>
+<tspan x="10" y="11642">703.  2017-04-25 22:56:59 +0000     1292 bytes  spec/w3c/functions/strbefore01.srx</tspan>
+<tspan x="10" y="11658">704.  2017-04-25 22:56:59 +0000     1176 bytes  spec/w3c/functions/strbefore01a.srx</tspan>
+<tspan x="10" y="11674">705.  2017-04-25 22:56:59 +0000      368 bytes  spec/w3c/functions/strbefore02.rq</tspan>
+<tspan x="10" y="11690">706.  2017-04-25 22:56:59 +0000     1977 bytes  spec/w3c/functions/strbefore02.srx</tspan>
+<tspan x="10" y="11706">707.  2017-04-25 22:56:59 +0000      186 bytes  spec/w3c/functions/strdt01.rq</tspan>
+<tspan x="10" y="11722">708.  2017-04-25 22:56:59 +0000      275 bytes  spec/w3c/functions/strdt01.srx</tspan>
+<tspan x="10" y="11738">709.  2017-04-25 22:56:59 +0000      191 bytes  spec/w3c/functions/strdt02.rq</tspan>
+<tspan x="10" y="11754">710.  2017-04-25 22:56:59 +0000      383 bytes  spec/w3c/functions/strdt02.srx</tspan>
+<tspan x="10" y="11770">711.  2017-04-25 22:56:59 +0000      141 bytes  spec/w3c/functions/strdt03.rq</tspan>
+<tspan x="10" y="11786">712.  2017-04-25 22:56:59 +0000     1939 bytes  spec/w3c/functions/strdt03.srx</tspan>
+<tspan x="10" y="11802">713.  2017-04-25 22:56:59 +0000      135 bytes  spec/w3c/functions/strlang01.rq</tspan>
+<tspan x="10" y="11818">714.  2017-04-25 22:56:59 +0000      273 bytes  spec/w3c/functions/strlang01.srx</tspan>
+<tspan x="10" y="11834">715.  2017-04-25 22:56:59 +0000      140 bytes  spec/w3c/functions/strlang02.rq</tspan>
+<tspan x="10" y="11850">716.  2017-04-25 22:56:59 +0000      345 bytes  spec/w3c/functions/strlang02.srx</tspan>
+<tspan x="10" y="11866">717.  2017-04-25 22:56:59 +0000       92 bytes  spec/w3c/functions/strlang03.rq</tspan>
+<tspan x="10" y="11882">718.  2017-04-25 22:56:59 +0000     1803 bytes  spec/w3c/functions/strlang03.srx</tspan>
+<tspan x="10" y="11898">719.  2017-04-25 22:56:59 +0000      262 bytes  spec/w3c/functions/struuid01.rq</tspan>
+<tspan x="10" y="11914">720.  2017-04-25 22:56:59 +0000      306 bytes  spec/w3c/functions/struuid01.srx</tspan>
+<tspan x="10" y="11930">721.  2017-04-25 22:56:59 +0000      100 bytes  spec/w3c/functions/substring01.rq</tspan>
+<tspan x="10" y="11946">722.  2017-04-25 22:56:59 +0000     1856 bytes  spec/w3c/functions/substring01.srx</tspan>
+<tspan x="10" y="11962">723.  2017-04-25 22:56:59 +0000       98 bytes  spec/w3c/functions/substring02.rq</tspan>
+<tspan x="10" y="11978">724.  2017-04-25 22:56:59 +0000     1865 bytes  spec/w3c/functions/substring02.srx</tspan>
+<tspan x="10" y="11994">725.  2017-04-25 22:56:59 +0000       91 bytes  spec/w3c/functions/timezone-01.rq</tspan>
+<tspan x="10" y="12010">726.  2017-04-25 22:56:59 +0000      879 bytes  spec/w3c/functions/timezone-01.srx</tspan>
+<tspan x="10" y="12026">727.  2017-04-25 22:56:59 +0000       85 bytes  spec/w3c/functions/tz-01.rq</tspan>
+<tspan x="10" y="12042">728.  2017-04-25 22:56:59 +0000      745 bytes  spec/w3c/functions/tz-01.srx</tspan>
+<tspan x="10" y="12058">729.  2017-04-25 22:56:59 +0000       88 bytes  spec/w3c/functions/ucase01.rq</tspan>
+<tspan x="10" y="12074">730.  2017-04-25 22:56:59 +0000     1319 bytes  spec/w3c/functions/ucase01.srx</tspan>
+<tspan x="10" y="12090">731.  2017-04-25 22:56:59 +0000      274 bytes  spec/w3c/functions/uuid01.rq</tspan>
+<tspan x="10" y="12106">732.  2017-04-25 22:56:59 +0000      306 bytes  spec/w3c/functions/uuid01.srx</tspan>
+<tspan x="10" y="12122">733.  2017-04-25 22:56:59 +0000       87 bytes  spec/w3c/functions/year-01.rq</tspan>
+<tspan x="10" y="12138">734.  2017-04-25 22:56:59 +0000      961 bytes  spec/w3c/functions/year-01.srx</tspan>
+<tspan x="10" y="12154">735.  2017-04-25 22:56:59 +0000       65 bytes  spec/w3c/grouping/group-data-1.ttl</tspan>
+<tspan x="10" y="12170">736.  2017-04-25 22:56:59 +0000       76 bytes  spec/w3c/grouping/group-data-2.ttl</tspan>
+<tspan x="10" y="12186">737.  2017-04-25 22:56:59 +0000       67 bytes  spec/w3c/grouping/group01.rq</tspan>
+<tspan x="10" y="12202">738.  2017-04-25 22:56:59 +0000      369 bytes  spec/w3c/grouping/group01.srx</tspan>
+<tspan x="10" y="12218">739.  2017-04-25 22:56:59 +0000       67 bytes  spec/w3c/grouping/group02.rq</tspan>
+<tspan x="10" y="12234">740.  2017-04-25 22:56:59 +0000      369 bytes  spec/w3c/grouping/group02.srx</tspan>
+<tspan x="10" y="12250">741.  2017-04-25 22:56:59 +0000      110 bytes  spec/w3c/grouping/group03.rq</tspan>
+<tspan x="10" y="12266">742.  2017-04-25 22:56:59 +0000      605 bytes  spec/w3c/grouping/group03.srx</tspan>
+<tspan x="10" y="12282">743.  2017-04-25 22:56:59 +0000      212 bytes  spec/w3c/grouping/group04.rq</tspan>
+<tspan x="10" y="12298">744.  2017-04-25 22:56:59 +0000      734 bytes  spec/w3c/grouping/group04.srx</tspan>
+<tspan x="10" y="12314">745.  2017-04-25 22:56:59 +0000       97 bytes  spec/w3c/grouping/group05.rq</tspan>
+<tspan x="10" y="12330">746.  2017-04-25 22:56:59 +0000      623 bytes  spec/w3c/grouping/group05.srx</tspan>
+<tspan x="10" y="12346">747.  2017-04-25 22:56:59 +0000       70 bytes  spec/w3c/grouping/group06.rq</tspan>
+<tspan x="10" y="12362">748.  2017-04-25 22:56:59 +0000      439 bytes  spec/w3c/grouping/group07.rq</tspan>
+<tspan x="10" y="12378">749.  2017-04-25 22:56:59 +0000     3066 bytes  spec/w3c/grouping/manifest.ttl</tspan>
+<tspan x="10" y="12394">750.  2017-04-25 22:56:59 +0000    13179 bytes  spec/w3c/http-rdf-update/index.html</tspan>
+<tspan x="10" y="12410">751.  2017-04-25 22:56:59 +0000    12558 bytes  spec/w3c/http-rdf-update/tests.html</tspan>
+<tspan x="10" y="12426">752.  2017-04-25 22:56:59 +0000     8629 bytes  spec/w3c/http-rdf-update/tests.txt</tspan>
+<tspan x="10" y="12442">753.  2017-04-25 22:56:59 +0000      196 bytes  spec/w3c/json-res/data.ttl</tspan>
+<tspan x="10" y="12458">754.  2017-04-25 22:56:59 +0000       76 bytes  spec/w3c/json-res/jsonres01.rq</tspan>
+<tspan x="10" y="12474">755.  2017-04-25 22:56:59 +0000     1526 bytes  spec/w3c/json-res/jsonres01.srj</tspan>
+<tspan x="10" y="12490">756.  2017-04-25 22:56:59 +0000      108 bytes  spec/w3c/json-res/jsonres02.rq</tspan>
+<tspan x="10" y="12506">757.  2017-04-25 22:56:59 +0000     1664 bytes  spec/w3c/json-res/jsonres02.srj</tspan>
+<tspan x="10" y="12522">758.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/json-res/jsonres03.rq</tspan>
+<tspan x="10" y="12538">759.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/json-res/jsonres03.srj</tspan>
+<tspan x="10" y="12554">760.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/json-res/jsonres04.rq</tspan>
+<tspan x="10" y="12570">761.  2017-04-25 22:56:59 +0000       42 bytes  spec/w3c/json-res/jsonres04.srj</tspan>
+<tspan x="10" y="12586">762.  2017-04-25 22:56:59 +0000     2177 bytes  spec/w3c/json-res/manifest.ttl</tspan>
+<tspan x="10" y="12602">763.  2017-04-25 22:56:59 +0000     3097 bytes  spec/w3c/manifest-all.ttl</tspan>
+<tspan x="10" y="12618">764.  2017-04-25 22:56:59 +0000     4451 bytes  spec/w3c/move/manifest.ttl</tspan>
+<tspan x="10" y="12634">765.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/move/move-01.ru</tspan>
+<tspan x="10" y="12650">766.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/move/move-01.ttl</tspan>
+<tspan x="10" y="12666">767.  2017-04-25 22:56:59 +0000      192 bytes  spec/w3c/move/move-02.ttl</tspan>
+<tspan x="10" y="12682">768.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/move/move-03.ru</tspan>
+<tspan x="10" y="12698">769.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/move/move-06.ru</tspan>
+<tspan x="10" y="12714">770.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/move/move-07.ru</tspan>
+<tspan x="10" y="12730">771.  2017-04-25 22:56:59 +0000      177 bytes  spec/w3c/move/move-default.ttl</tspan>
+<tspan x="10" y="12746">772.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/negation/exists-01.rq</tspan>
+<tspan x="10" y="12762">773.  2017-04-25 22:56:59 +0000      339 bytes  spec/w3c/negation/exists-01.srx</tspan>
+<tspan x="10" y="12778">774.  2017-04-25 22:56:59 +0000      187 bytes  spec/w3c/negation/exists-02.rq</tspan>
+<tspan x="10" y="12794">775.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/negation/exists-02.srx</tspan>
+<tspan x="10" y="12810">776.  2017-04-25 22:56:59 +0000      162 bytes  spec/w3c/negation/full-minuend.rq</tspan>
+<tspan x="10" y="12826">777.  2017-04-25 22:56:59 +0000      735 bytes  spec/w3c/negation/full-minuend.srx</tspan>
+<tspan x="10" y="12842">778.  2017-04-25 22:56:59 +0000      280 bytes  spec/w3c/negation/full-minuend.ttl</tspan>
+<tspan x="10" y="12858">779.  2017-04-25 22:56:59 +0000     5116 bytes  spec/w3c/negation/manifest.ttl</tspan>
+<tspan x="10" y="12874">780.  2017-04-25 22:56:59 +0000      204 bytes  spec/w3c/negation/part-minuend.rq</tspan>
+<tspan x="10" y="12890">781.  2017-04-25 22:56:59 +0000      498 bytes  spec/w3c/negation/part-minuend.srx</tspan>
+<tspan x="10" y="12906">782.  2017-04-25 22:56:59 +0000      262 bytes  spec/w3c/negation/part-minuend.ttl</tspan>
+<tspan x="10" y="12922">783.  2017-04-25 22:56:59 +0000      418 bytes  spec/w3c/negation/set-data.ttl</tspan>
+<tspan x="10" y="12938">784.  2017-04-25 22:56:59 +0000      714 bytes  spec/w3c/negation/set-equals-1.rq</tspan>
+<tspan x="10" y="12954">785.  2017-04-25 22:56:59 +0000      554 bytes  spec/w3c/negation/set-equals-1.srx</tspan>
+<tspan x="10" y="12970">786.  2017-04-25 22:56:59 +0000      547 bytes  spec/w3c/negation/subset-01.rq</tspan>
+<tspan x="10" y="12986">787.  2017-04-25 22:56:59 +0000     2359 bytes  spec/w3c/negation/subset-01.srx</tspan>
+<tspan x="10" y="13002">788.  2017-04-25 22:56:59 +0000      893 bytes  spec/w3c/negation/subset-02.rq</tspan>
+<tspan x="10" y="13018">789.  2017-04-25 22:56:59 +0000     2359 bytes  spec/w3c/negation/subset-02.srx</tspan>
+<tspan x="10" y="13034">790.  2017-04-25 22:56:59 +0000      963 bytes  spec/w3c/negation/subset-03.rq</tspan>
+<tspan x="10" y="13050">791.  2017-04-25 22:56:59 +0000     1579 bytes  spec/w3c/negation/subset-03.srx</tspan>
+<tspan x="10" y="13066">792.  2017-04-25 22:56:59 +0000      196 bytes  spec/w3c/negation/subsetByExcl.ttl</tspan>
+<tspan x="10" y="13082">793.  2017-04-25 22:56:59 +0000      165 bytes  spec/w3c/negation/subsetByExcl01.rq</tspan>
+<tspan x="10" y="13098">794.  2017-04-25 22:56:59 +0000      572 bytes  spec/w3c/negation/subsetByExcl01.srx</tspan>
+<tspan x="10" y="13114">795.  2017-04-25 22:56:59 +0000      207 bytes  spec/w3c/negation/subsetByExcl02.rq</tspan>
+<tspan x="10" y="13130">796.  2017-04-25 22:56:59 +0000      369 bytes  spec/w3c/negation/subsetByExcl02.srx</tspan>
+<tspan x="10" y="13146">797.  2017-04-25 22:56:59 +0000      482 bytes  spec/w3c/negation/temporalProximity01.rq</tspan>
+<tspan x="10" y="13162">798.  2017-04-25 22:56:59 +0000      571 bytes  spec/w3c/negation/temporalProximity01.srx</tspan>
+<tspan x="10" y="13178">799.  2017-04-25 22:56:59 +0000      665 bytes  spec/w3c/negation/temporalProximity01.ttl</tspan>
+<tspan x="10" y="13194">800.  2017-04-25 22:56:59 +0000     3146 bytes  spec/w3c/project-expression/manifest.ttl</tspan>
+<tspan x="10" y="13210">801.  2017-04-25 22:56:59 +0000      163 bytes  spec/w3c/project-expression/projexp01.rq</tspan>
+<tspan x="10" y="13226">802.  2017-04-25 22:56:59 +0000      985 bytes  spec/w3c/project-expression/projexp01.srx</tspan>
+<tspan x="10" y="13242">803.  2017-04-25 22:56:59 +0000      259 bytes  spec/w3c/project-expression/projexp01.ttl</tspan>
+<tspan x="10" y="13258">804.  2017-04-25 22:56:59 +0000      164 bytes  spec/w3c/project-expression/projexp02.rq</tspan>
+<tspan x="10" y="13274">805.  2017-04-25 22:56:59 +0000      832 bytes  spec/w3c/project-expression/projexp02.srx</tspan>
+<tspan x="10" y="13290">806.  2017-04-25 22:56:59 +0000      266 bytes  spec/w3c/project-expression/projexp02.ttl</tspan>
+<tspan x="10" y="13306">807.  2017-04-25 22:56:59 +0000      192 bytes  spec/w3c/project-expression/projexp03.rq</tspan>
+<tspan x="10" y="13322">808.  2017-04-25 22:56:59 +0000      714 bytes  spec/w3c/project-expression/projexp03.srx</tspan>
+<tspan x="10" y="13338">809.  2017-04-25 22:56:59 +0000      245 bytes  spec/w3c/project-expression/projexp03.ttl</tspan>
+<tspan x="10" y="13354">810.  2017-04-25 22:56:59 +0000      164 bytes  spec/w3c/project-expression/projexp04.rq</tspan>
+<tspan x="10" y="13370">811.  2017-04-25 22:56:59 +0000      759 bytes  spec/w3c/project-expression/projexp04.srx</tspan>
+<tspan x="10" y="13386">812.  2017-04-25 22:56:59 +0000      245 bytes  spec/w3c/project-expression/projexp04.ttl</tspan>
+<tspan x="10" y="13402">813.  2017-04-25 22:56:59 +0000      148 bytes  spec/w3c/project-expression/projexp05.rq</tspan>
+<tspan x="10" y="13418">814.  2017-04-25 22:56:59 +0000      603 bytes  spec/w3c/project-expression/projexp05.srx</tspan>
+<tspan x="10" y="13434">815.  2017-04-25 22:56:59 +0000      248 bytes  spec/w3c/project-expression/projexp05.ttl</tspan>
+<tspan x="10" y="13450">816.  2017-04-25 22:56:59 +0000      150 bytes  spec/w3c/project-expression/projexp06.rq</tspan>
+<tspan x="10" y="13466">817.  2017-04-25 22:56:59 +0000      358 bytes  spec/w3c/project-expression/projexp06.srx</tspan>
+<tspan x="10" y="13482">818.  2017-04-25 22:56:59 +0000      231 bytes  spec/w3c/project-expression/projexp06.ttl</tspan>
+<tspan x="10" y="13498">819.  2017-04-25 22:56:59 +0000      172 bytes  spec/w3c/project-expression/projexp07.rq</tspan>
+<tspan x="10" y="13514">820.  2017-04-25 22:56:59 +0000      411 bytes  spec/w3c/project-expression/projexp07.srx</tspan>
+<tspan x="10" y="13530">821.  2017-04-25 22:56:59 +0000      258 bytes  spec/w3c/project-expression/projexp07.ttl</tspan>
+<tspan x="10" y="13546">822.  2017-04-25 22:56:59 +0000       89 bytes  spec/w3c/property-path/clique3.ttl</tspan>
+<tspan x="10" y="13562">823.  2017-04-25 22:56:59 +0000       93 bytes  spec/w3c/property-path/data-diamond-loop.ttl</tspan>
+<tspan x="10" y="13578">824.  2017-04-25 22:56:59 +0000       93 bytes  spec/w3c/property-path/data-diamond-tail.ttl</tspan>
+<tspan x="10" y="13594">825.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/property-path/data-diamond.ttl</tspan>
+<tspan x="10" y="13610">826.  2017-04-25 22:56:59 +0000      367 bytes  spec/w3c/property-path/diamond-1.srx</tspan>
+<tspan x="10" y="13626">827.  2017-04-25 22:56:59 +0000      472 bytes  spec/w3c/property-path/diamond-2.srx</tspan>
+<tspan x="10" y="13642">828.  2017-04-25 22:56:59 +0000      472 bytes  spec/w3c/property-path/diamond-loop-1.srx</tspan>
+<tspan x="10" y="13658">829.  2017-04-25 22:56:59 +0000      472 bytes  spec/w3c/property-path/diamond-loop-2.srx</tspan>
+<tspan x="10" y="13674">830.  2017-04-25 22:56:59 +0000      892 bytes  spec/w3c/property-path/diamond-loop-3.srx</tspan>
+<tspan x="10" y="13690">831.  2017-04-25 22:56:59 +0000      997 bytes  spec/w3c/property-path/diamond-loop-4.srx</tspan>
+<tspan x="10" y="13706">832.  2017-04-25 22:56:59 +0000      577 bytes  spec/w3c/property-path/diamond-loop-5.srx</tspan>
+<tspan x="10" y="13722">833.  2017-04-25 22:56:59 +0000      472 bytes  spec/w3c/property-path/diamond-loop-5a.srx</tspan>
+<tspan x="10" y="13738">834.  2017-04-25 22:56:59 +0000      682 bytes  spec/w3c/property-path/diamond-loop-6.srx</tspan>
+<tspan x="10" y="13754">835.  2017-04-25 22:56:59 +0000      367 bytes  spec/w3c/property-path/diamond-tail-1.srx</tspan>
+<tspan x="10" y="13770">836.  2017-04-25 22:56:59 +0000      577 bytes  spec/w3c/property-path/diamond-tail-2.srx</tspan>
+<tspan x="10" y="13786">837.  2017-04-25 22:56:59 +0000        0 bytes  spec/w3c/property-path/empty.ttl</tspan>
+<tspan x="10" y="13802">838.  2017-04-25 22:56:59 +0000    13483 bytes  spec/w3c/property-path/manifest.ttl</tspan>
+<tspan x="10" y="13818">839.  2017-04-25 22:56:59 +0000       52 bytes  spec/w3c/property-path/ng-01.ttl</tspan>
+<tspan x="10" y="13834">840.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/property-path/ng-02.ttl</tspan>
+<tspan x="10" y="13850">841.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/property-path/ng-03.ttl</tspan>
+<tspan x="10" y="13866">842.  2017-04-25 22:56:59 +0000       70 bytes  spec/w3c/property-path/path-2-1.rq</tspan>
+<tspan x="10" y="13882">843.  2017-04-25 22:56:59 +0000       68 bytes  spec/w3c/property-path/path-2-2.rq</tspan>
+<tspan x="10" y="13898">844.  2017-04-25 22:56:59 +0000       70 bytes  spec/w3c/property-path/path-2-3.rq</tspan>
+<tspan x="10" y="13914">845.  2017-04-25 22:56:59 +0000       72 bytes  spec/w3c/property-path/path-3-1.rq</tspan>
+<tspan x="10" y="13930">846.  2017-04-25 22:56:59 +0000       66 bytes  spec/w3c/property-path/path-3-2.rq</tspan>
+<tspan x="10" y="13946">847.  2017-04-25 22:56:59 +0000       73 bytes  spec/w3c/property-path/path-3-3.rq</tspan>
+<tspan x="10" y="13962">848.  2017-04-25 22:56:59 +0000       66 bytes  spec/w3c/property-path/path-3-4.rq</tspan>
+<tspan x="10" y="13978">849.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/property-path/path-ng-01.rq</tspan>
+<tspan x="10" y="13994">850.  2017-04-25 22:56:59 +0000      371 bytes  spec/w3c/property-path/path-ng-01.srx</tspan>
+<tspan x="10" y="14010">851.  2017-04-25 22:56:59 +0000      113 bytes  spec/w3c/property-path/path-ng-02.rq</tspan>
+<tspan x="10" y="14026">852.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/property-path/path-p1.rq</tspan>
+<tspan x="10" y="14042">853.  2017-04-25 22:56:59 +0000      372 bytes  spec/w3c/property-path/path-p1.srx</tspan>
+<tspan x="10" y="14058">854.  2017-04-25 22:56:59 +0000      102 bytes  spec/w3c/property-path/path-p1.ttl</tspan>
+<tspan x="10" y="14074">855.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/property-path/path-p2.rq</tspan>
+<tspan x="10" y="14090">856.  2017-04-25 22:56:59 +0000      289 bytes  spec/w3c/property-path/path-p2.srx</tspan>
+<tspan x="10" y="14106">857.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/property-path/path-p3.rq</tspan>
+<tspan x="10" y="14122">858.  2017-04-25 22:56:59 +0000      372 bytes  spec/w3c/property-path/path-p3.srx</tspan>
+<tspan x="10" y="14138">859.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/property-path/path-p3.ttl</tspan>
+<tspan x="10" y="14154">860.  2017-04-25 22:56:59 +0000       82 bytes  spec/w3c/property-path/path-p4.rq</tspan>
+<tspan x="10" y="14170">861.  2017-04-25 22:56:59 +0000      372 bytes  spec/w3c/property-path/path-p4.srx</tspan>
+<tspan x="10" y="14186">862.  2017-04-25 22:56:59 +0000      135 bytes  spec/w3c/property-path/pp01.rq</tspan>
+<tspan x="10" y="14202">863.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/property-path/pp01.srx</tspan>
+<tspan x="10" y="14218">864.  2017-04-25 22:56:59 +0000      271 bytes  spec/w3c/property-path/pp01.ttl</tspan>
+<tspan x="10" y="14234">865.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/property-path/pp02.rq</tspan>
+<tspan x="10" y="14250">866.  2017-04-25 22:56:59 +0000      401 bytes  spec/w3c/property-path/pp02.srx</tspan>
+<tspan x="10" y="14266">867.  2017-04-25 22:56:59 +0000      141 bytes  spec/w3c/property-path/pp03.rq</tspan>
+<tspan x="10" y="14282">868.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/property-path/pp03.srx</tspan>
+<tspan x="10" y="14298">869.  2017-04-25 22:56:59 +0000      290 bytes  spec/w3c/property-path/pp03.ttl</tspan>
+<tspan x="10" y="14314">870.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/property-path/pp04.rq</tspan>
+<tspan x="10" y="14330">871.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/property-path/pp04.srx</tspan>
+<tspan x="10" y="14346">872.  2017-04-25 22:56:59 +0000      188 bytes  spec/w3c/property-path/pp05.rq</tspan>
+<tspan x="10" y="14362">873.  2017-04-25 22:56:59 +0000     1500 bytes  spec/w3c/property-path/pp05.srx</tspan>
+<tspan x="10" y="14378">874.  2017-04-25 22:56:59 +0000      280 bytes  spec/w3c/property-path/pp05.ttl</tspan>
+<tspan x="10" y="14394">875.  2017-04-25 22:56:59 +0000      141 bytes  spec/w3c/property-path/pp06.rq</tspan>
+<tspan x="10" y="14410">876.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/property-path/pp06.srx</tspan>
+<tspan x="10" y="14426">877.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/property-path/pp061.ttl</tspan>
+<tspan x="10" y="14442">878.  2017-04-25 22:56:59 +0000      236 bytes  spec/w3c/property-path/pp062.ttl</tspan>
+<tspan x="10" y="14458">879.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/property-path/pp07.srx</tspan>
+<tspan x="10" y="14474">880.  2017-04-25 22:56:59 +0000      254 bytes  spec/w3c/property-path/pp07.ttl</tspan>
+<tspan x="10" y="14490">881.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/property-path/pp08.rq</tspan>
+<tspan x="10" y="14506">882.  2017-04-25 22:56:59 +0000      105 bytes  spec/w3c/property-path/pp08.srx</tspan>
+<tspan x="10" y="14522">883.  2017-04-25 22:56:59 +0000      235 bytes  spec/w3c/property-path/pp08.ttl</tspan>
+<tspan x="10" y="14538">884.  2017-04-25 22:56:59 +0000      133 bytes  spec/w3c/property-path/pp09.rq</tspan>
+<tspan x="10" y="14554">885.  2017-04-25 22:56:59 +0000      216 bytes  spec/w3c/property-path/pp09.srx</tspan>
+<tspan x="10" y="14570">886.  2017-04-25 22:56:59 +0000      254 bytes  spec/w3c/property-path/pp09.ttl</tspan>
+<tspan x="10" y="14586">887.  2017-04-25 22:56:59 +0000      132 bytes  spec/w3c/property-path/pp10.rq</tspan>
+<tspan x="10" y="14602">888.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/property-path/pp10.srx</tspan>
+<tspan x="10" y="14618">889.  2017-04-25 22:56:59 +0000      272 bytes  spec/w3c/property-path/pp10.ttl</tspan>
+<tspan x="10" y="14634">890.  2017-04-25 22:56:59 +0000      130 bytes  spec/w3c/property-path/pp11.rq</tspan>
+<tspan x="10" y="14650">891.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/property-path/pp11.srx</tspan>
+<tspan x="10" y="14666">892.  2017-04-25 22:56:59 +0000      289 bytes  spec/w3c/property-path/pp11.ttl</tspan>
+<tspan x="10" y="14682">893.  2017-04-25 22:56:59 +0000      133 bytes  spec/w3c/property-path/pp12.rq</tspan>
+<tspan x="10" y="14698">894.  2017-04-25 22:56:59 +0000      229 bytes  spec/w3c/property-path/pp12.srx</tspan>
+<tspan x="10" y="14714">895.  2017-04-25 22:56:59 +0000       71 bytes  spec/w3c/property-path/pp13.rq</tspan>
+<tspan x="10" y="14730">896.  2017-04-25 22:56:59 +0000      532 bytes  spec/w3c/property-path/pp13.srx</tspan>
+<tspan x="10" y="14746">897.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/property-path/pp13.ttl</tspan>
+<tspan x="10" y="14762">898.  2017-04-25 22:56:59 +0000      129 bytes  spec/w3c/property-path/pp14.rq</tspan>
+<tspan x="10" y="14778">899.  2017-04-25 22:56:59 +0000     1328 bytes  spec/w3c/property-path/pp14.srx</tspan>
+<tspan x="10" y="14794">900.  2017-04-25 22:56:59 +0000      118 bytes  spec/w3c/property-path/pp14.ttl</tspan>
+<tspan x="10" y="14810">901.  2017-04-25 22:56:59 +0000      115 bytes  spec/w3c/property-path/pp15.rq</tspan>
+<tspan x="10" y="14826">902.  2017-04-25 22:56:59 +0000      477 bytes  spec/w3c/property-path/pp15.srx</tspan>
+<tspan x="10" y="14842">903.  2017-04-25 22:56:59 +0000     3031 bytes  spec/w3c/property-path/pp16.srx</tspan>
+<tspan x="10" y="14858">904.  2017-04-25 22:56:59 +0000      239 bytes  spec/w3c/property-path/pp16.ttl</tspan>
+<tspan x="10" y="14874">905.  2017-04-25 22:56:59 +0000       64 bytes  spec/w3c/property-path/pp36.rq</tspan>
+<tspan x="10" y="14890">906.  2017-04-25 22:56:59 +0000      120 bytes  spec/w3c/property-path/pp36.srx</tspan>
+<tspan x="10" y="14906">907.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/property-path/pp37.rq</tspan>
+<tspan x="10" y="14922">908.  2017-04-25 22:56:59 +0000      487 bytes  spec/w3c/property-path/pp37.srx</tspan>
+<tspan x="10" y="14938">909.  2017-04-25 22:56:59 +0000       91 bytes  spec/w3c/property-path/pp37.ttl</tspan>
+<tspan x="10" y="14954">910.  2017-04-25 22:56:59 +0000     7888 bytes  spec/w3c/protocol/manifest.ttl</tspan>
+<tspan x="10" y="14970">911.  2017-04-25 22:56:59 +0000     1434 bytes  spec/w3c/service-description/manifest.ttl</tspan>
+<tspan x="10" y="14986">912.  2017-04-25 22:56:59 +0000      658 bytes  spec/w3c/service/README</tspan>
+<tspan x="10" y="15002">913.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/service/data01.ttl</tspan>
+<tspan x="10" y="15018">914.  2017-04-25 22:56:59 +0000      172 bytes  spec/w3c/service/data01endpoint.ttl</tspan>
+<tspan x="10" y="15034">915.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/service/data02endpoint1.ttl</tspan>
+<tspan x="10" y="15050">916.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/service/data02endpoint2.ttl</tspan>
+<tspan x="10" y="15066">917.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/service/data03endpoint1.ttl</tspan>
+<tspan x="10" y="15082">918.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/service/data03endpoint2.ttl</tspan>
+<tspan x="10" y="15098">919.  2017-04-25 22:56:59 +0000      247 bytes  spec/w3c/service/data04.ttl</tspan>
+<tspan x="10" y="15114">920.  2017-04-25 22:56:59 +0000      209 bytes  spec/w3c/service/data04endpoint.ttl</tspan>
+<tspan x="10" y="15130">921.  2017-04-25 22:56:59 +0000      415 bytes  spec/w3c/service/data05.ttl</tspan>
+<tspan x="10" y="15146">922.  2017-04-25 22:56:59 +0000      312 bytes  spec/w3c/service/data05endpoint1.ttl</tspan>
+<tspan x="10" y="15162">923.  2017-04-25 22:56:59 +0000      202 bytes  spec/w3c/service/data05endpoint2.ttl</tspan>
+<tspan x="10" y="15178">924.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/service/data06endpoint1.ttl</tspan>
+<tspan x="10" y="15194">925.  2017-04-25 22:56:59 +0000      123 bytes  spec/w3c/service/data07.ttl</tspan>
+<tspan x="10" y="15210">926.  2017-04-25 22:56:59 +0000      215 bytes  spec/w3c/service/dataendpoint01.ttl</tspan>
+<tspan x="10" y="15226">927.  2017-04-25 22:56:59 +0000     5639 bytes  spec/w3c/service/manifest.ttl</tspan>
+<tspan x="10" y="15242">928.  2017-04-25 22:56:59 +0000      180 bytes  spec/w3c/service/service01.rq</tspan>
+<tspan x="10" y="15258">929.  2017-04-25 22:56:59 +0000      671 bytes  spec/w3c/service/service01.srx</tspan>
+<tspan x="10" y="15274">930.  2017-04-25 22:56:59 +0000      209 bytes  spec/w3c/service/service02.rq</tspan>
+<tspan x="10" y="15290">931.  2017-04-25 22:56:59 +0000      600 bytes  spec/w3c/service/service02.srx</tspan>
+<tspan x="10" y="15306">932.  2017-04-25 22:56:59 +0000      304 bytes  spec/w3c/service/service03.rq</tspan>
+<tspan x="10" y="15322">933.  2017-04-25 22:56:59 +0000      600 bytes  spec/w3c/service/service03.srx</tspan>
+<tspan x="10" y="15338">934.  2017-04-25 22:56:59 +0000      258 bytes  spec/w3c/service/service04.rq</tspan>
+<tspan x="10" y="15354">935.  2017-04-25 22:56:59 +0000     1112 bytes  spec/w3c/service/service04.srx</tspan>
+<tspan x="10" y="15370">936.  2017-04-25 22:56:59 +0000      259 bytes  spec/w3c/service/service04a.rq</tspan>
+<tspan x="10" y="15386">937.  2017-04-25 22:56:59 +0000      518 bytes  spec/w3c/service/service05.rq</tspan>
+<tspan x="10" y="15402">938.  2017-04-25 22:56:59 +0000      753 bytes  spec/w3c/service/service05.srx</tspan>
+<tspan x="10" y="15418">939.  2017-04-25 22:56:59 +0000      319 bytes  spec/w3c/service/service06.rq</tspan>
+<tspan x="10" y="15434">940.  2017-04-25 22:56:59 +0000      513 bytes  spec/w3c/service/service06.srx</tspan>
+<tspan x="10" y="15450">941.  2017-04-25 22:56:59 +0000      183 bytes  spec/w3c/service/service07.rq</tspan>
+<tspan x="10" y="15466">942.  2017-04-25 22:56:59 +0000      583 bytes  spec/w3c/service/service07.srx</tspan>
+<tspan x="10" y="15482">943.  2017-04-25 22:56:59 +0000     6182 bytes  spec/w3c/subquery/manifest.ttl</tspan>
+<tspan x="10" y="15498">944.  2017-04-25 22:56:59 +0000      501 bytes  spec/w3c/subquery/sq01.rdf</tspan>
+<tspan x="10" y="15514">945.  2017-04-25 22:56:59 +0000      155 bytes  spec/w3c/subquery/sq01.rq</tspan>
+<tspan x="10" y="15530">946.  2017-04-25 22:56:59 +0000      470 bytes  spec/w3c/subquery/sq01.srx</tspan>
+<tspan x="10" y="15546">947.  2017-04-25 22:56:59 +0000      155 bytes  spec/w3c/subquery/sq02.rq</tspan>
+<tspan x="10" y="15562">948.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/subquery/sq02.srx</tspan>
+<tspan x="10" y="15578">949.  2017-04-25 22:56:59 +0000      154 bytes  spec/w3c/subquery/sq03.rq</tspan>
+<tspan x="10" y="15594">950.  2017-04-25 22:56:59 +0000      308 bytes  spec/w3c/subquery/sq03.srx</tspan>
+<tspan x="10" y="15610">951.  2017-04-25 22:56:59 +0000      388 bytes  spec/w3c/subquery/sq04.rdf</tspan>
+<tspan x="10" y="15626">952.  2017-04-25 22:56:59 +0000       62 bytes  spec/w3c/subquery/sq04.rq</tspan>
+<tspan x="10" y="15642">953.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/subquery/sq04.srx</tspan>
+<tspan x="10" y="15658">954.  2017-04-25 22:56:59 +0000      501 bytes  spec/w3c/subquery/sq05.rdf</tspan>
+<tspan x="10" y="15674">955.  2017-04-25 22:56:59 +0000      153 bytes  spec/w3c/subquery/sq05.rq</tspan>
+<tspan x="10" y="15690">956.  2017-04-25 22:56:59 +0000      308 bytes  spec/w3c/subquery/sq05.srx</tspan>
+<tspan x="10" y="15706">957.  2017-04-25 22:56:59 +0000      138 bytes  spec/w3c/subquery/sq06.rq</tspan>
+<tspan x="10" y="15722">958.  2017-04-25 22:56:59 +0000      306 bytes  spec/w3c/subquery/sq06.srx</tspan>
+<tspan x="10" y="15738">959.  2017-04-25 22:56:59 +0000      149 bytes  spec/w3c/subquery/sq07.rq</tspan>
+<tspan x="10" y="15754">960.  2017-04-25 22:56:59 +0000      307 bytes  spec/w3c/subquery/sq07.srx</tspan>
+<tspan x="10" y="15770">961.  2017-04-25 22:56:59 +0000      640 bytes  spec/w3c/subquery/sq08.rdf</tspan>
+<tspan x="10" y="15786">962.  2017-04-25 22:56:59 +0000      177 bytes  spec/w3c/subquery/sq08.rq</tspan>
+<tspan x="10" y="15802">963.  2017-04-25 22:56:59 +0000      340 bytes  spec/w3c/subquery/sq08.srx</tspan>
+<tspan x="10" y="15818">964.  2017-04-25 22:56:59 +0000      594 bytes  spec/w3c/subquery/sq09.rdf</tspan>
+<tspan x="10" y="15834">965.  2017-04-25 22:56:59 +0000      179 bytes  spec/w3c/subquery/sq09.rq</tspan>
+<tspan x="10" y="15850">966.  2017-04-25 22:56:59 +0000      309 bytes  spec/w3c/subquery/sq09.srx</tspan>
+<tspan x="10" y="15866">967.  2017-04-25 22:56:59 +0000      446 bytes  spec/w3c/subquery/sq10.rdf</tspan>
+<tspan x="10" y="15882">968.  2017-04-25 22:56:59 +0000      172 bytes  spec/w3c/subquery/sq10.rq</tspan>
+<tspan x="10" y="15898">969.  2017-04-25 22:56:59 +0000      124 bytes  spec/w3c/subquery/sq10.srx</tspan>
+<tspan x="10" y="15914">970.  2017-04-25 22:56:59 +0000      276 bytes  spec/w3c/subquery/sq11.rq</tspan>
+<tspan x="10" y="15930">971.  2017-04-25 22:56:59 +0000      781 bytes  spec/w3c/subquery/sq11.srx</tspan>
+<tspan x="10" y="15946">972.  2017-04-25 22:56:59 +0000      748 bytes  spec/w3c/subquery/sq11.ttl</tspan>
+<tspan x="10" y="15962">973.  2017-04-25 22:56:59 +0000      191 bytes  spec/w3c/subquery/sq12.rq</tspan>
+<tspan x="10" y="15978">974.  2017-04-25 22:56:59 +0000      103 bytes  spec/w3c/subquery/sq12.ttl</tspan>
+<tspan x="10" y="15994">975.  2017-04-25 22:56:59 +0000       94 bytes  spec/w3c/subquery/sq12_out.ttl</tspan>
+<tspan x="10" y="16010">976.  2017-04-25 22:56:59 +0000      285 bytes  spec/w3c/subquery/sq13.rq</tspan>
+<tspan x="10" y="16026">977.  2017-04-25 22:56:59 +0000     3528 bytes  spec/w3c/subquery/sq13.srx</tspan>
+<tspan x="10" y="16042">978.  2017-04-25 22:56:59 +0000      748 bytes  spec/w3c/subquery/sq13.ttl</tspan>
+<tspan x="10" y="16058">979.  2017-04-25 22:56:59 +0000      422 bytes  spec/w3c/subquery/sq14-out.ttl</tspan>
+<tspan x="10" y="16074">980.  2017-04-25 22:56:59 +0000      410 bytes  spec/w3c/subquery/sq14.rq</tspan>
+<tspan x="10" y="16090">981.  2017-04-25 22:56:59 +0000      582 bytes  spec/w3c/subquery/sq14.ttl</tspan>
+<tspan x="10" y="16106">982.  2017-04-25 22:56:59 +0000     1396 bytes  spec/w3c/syntax-fed/manifest.ttl</tspan>
+<tspan x="10" y="16122">983.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/syntax-fed/syntax-service-01.rq</tspan>
+<tspan x="10" y="16138">984.  2017-04-25 22:56:59 +0000       56 bytes  spec/w3c/syntax-fed/syntax-service-02.rq</tspan>
+<tspan x="10" y="16154">985.  2017-04-25 22:56:59 +0000       63 bytes  spec/w3c/syntax-fed/syntax-service-03.rq</tspan>
+<tspan x="10" y="16170">986.  2017-04-25 22:56:59 +0000    24734 bytes  spec/w3c/syntax-query/manifest.ttl</tspan>
+<tspan x="10" y="16186">987.  2017-04-25 22:56:59 +0000       80 bytes  spec/w3c/syntax-query/qname-escape-01.rq</tspan>
+<tspan x="10" y="16202">988.  2017-04-25 22:56:59 +0000       81 bytes  spec/w3c/syntax-query/qname-escape-02.rq</tspan>
+<tspan x="10" y="16218">989.  2017-04-25 22:56:59 +0000       79 bytes  spec/w3c/syntax-query/qname-escape-03.rq</tspan>
+<tspan x="10" y="16234">990.  2017-04-25 22:56:59 +0000       62 bytes  spec/w3c/syntax-query/syn-bad-01.rq</tspan>
+<tspan x="10" y="16250">991.  2017-04-25 22:56:59 +0000      104 bytes  spec/w3c/syntax-query/syn-bad-02.rq</tspan>
+<tspan x="10" y="16266">992.  2017-04-25 22:56:59 +0000       30 bytes  spec/w3c/syntax-query/syn-bad-03.rq</tspan>
+<tspan x="10" y="16282">993.  2017-04-25 22:56:59 +0000       19 bytes  spec/w3c/syntax-query/syn-bad-04.rq</tspan>
+<tspan x="10" y="16298">994.  2017-04-25 22:56:59 +0000       19 bytes  spec/w3c/syntax-query/syn-bad-05.rq</tspan>
+<tspan x="10" y="16314">995.  2017-04-25 22:56:59 +0000       29 bytes  spec/w3c/syntax-query/syn-bad-06.rq</tspan>
+<tspan x="10" y="16330">996.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/syntax-query/syn-bad-07.rq</tspan>
+<tspan x="10" y="16346">997.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/syntax-query/syn-bad-08.rq</tspan>
+<tspan x="10" y="16362">998.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/syntax-query/syn-bad-pname-01.rq</tspan>
+<tspan x="10" y="16378">999.  2017-04-25 22:56:59 +0000       59 bytes  spec/w3c/syntax-query/syn-bad-pname-02.rq</tspan>
+<tspan x="10" y="16394">1000.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/syntax-query/syn-bad-pname-03.rq</tspan>
+<tspan x="10" y="16410">1001.  2017-04-25 22:56:59 +0000       54 bytes  spec/w3c/syntax-query/syn-bad-pname-04.rq</tspan>
+<tspan x="10" y="16426">1002.  2017-04-25 22:56:59 +0000       34 bytes  spec/w3c/syntax-query/syn-bad-pname-05.rq</tspan>
+<tspan x="10" y="16442">1003.  2017-04-25 22:56:59 +0000       56 bytes  spec/w3c/syntax-query/syn-bad-pname-06.rq</tspan>
+<tspan x="10" y="16458">1004.  2017-04-25 22:56:59 +0000       34 bytes  spec/w3c/syntax-query/syn-bad-pname-07.rq</tspan>
+<tspan x="10" y="16474">1005.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/syntax-query/syn-bad-pname-08.rq</tspan>
+<tspan x="10" y="16490">1006.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/syntax-query/syn-bad-pname-09.rq</tspan>
+<tspan x="10" y="16506">1007.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/syntax-query/syn-bad-pname-10.rq</tspan>
+<tspan x="10" y="16522">1008.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/syntax-query/syn-bad-pname-11.rq</tspan>
+<tspan x="10" y="16538">1009.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/syntax-query/syn-bad-pname-12.rq</tspan>
+<tspan x="10" y="16554">1010.  2017-04-25 22:56:59 +0000       60 bytes  spec/w3c/syntax-query/syn-bad-pname-13.rq</tspan>
+<tspan x="10" y="16570">1011.  2017-04-25 22:56:59 +0000       33 bytes  spec/w3c/syntax-query/syn-pname-01.rq</tspan>
+<tspan x="10" y="16586">1012.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syn-pname-02.rq</tspan>
+<tspan x="10" y="16602">1013.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/syntax-query/syn-pname-03.rq</tspan>
+<tspan x="10" y="16618">1014.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/syntax-query/syn-pname-04.rq</tspan>
+<tspan x="10" y="16634">1015.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/syntax-query/syn-pname-05.rq</tspan>
+<tspan x="10" y="16650">1016.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/syntax-query/syn-pname-06.rq</tspan>
+<tspan x="10" y="16666">1017.  2017-04-25 22:56:59 +0000       61 bytes  spec/w3c/syntax-query/syn-pname-07.rq</tspan>
+<tspan x="10" y="16682">1018.  2017-04-25 22:56:59 +0000       60 bytes  spec/w3c/syntax-query/syn-pname-08.rq</tspan>
+<tspan x="10" y="16698">1019.  2017-04-25 22:56:59 +0000      108 bytes  spec/w3c/syntax-query/syn-pname-09.rq</tspan>
+<tspan x="10" y="16714">1020.  2017-04-25 22:56:59 +0000       90 bytes  spec/w3c/syntax-query/syn-pp-in-collection.rq</tspan>
+<tspan x="10" y="16730">1021.  2017-04-25 22:56:59 +0000      110 bytes  spec/w3c/syntax-query/syntax-BINDscope1.rq</tspan>
+<tspan x="10" y="16746">1022.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/syntax-query/syntax-BINDscope2.rq</tspan>
+<tspan x="10" y="16762">1023.  2017-04-25 22:56:59 +0000      127 bytes  spec/w3c/syntax-query/syntax-BINDscope3.rq</tspan>
+<tspan x="10" y="16778">1024.  2017-04-25 22:56:59 +0000      103 bytes  spec/w3c/syntax-query/syntax-BINDscope4.rq</tspan>
+<tspan x="10" y="16794">1025.  2017-04-25 22:56:59 +0000      105 bytes  spec/w3c/syntax-query/syntax-BINDscope5.rq</tspan>
+<tspan x="10" y="16810">1026.  2017-04-25 22:56:59 +0000      114 bytes  spec/w3c/syntax-query/syntax-BINDscope6.rq</tspan>
+<tspan x="10" y="16826">1027.  2017-04-25 22:56:59 +0000      125 bytes  spec/w3c/syntax-query/syntax-BINDscope7.rq</tspan>
+<tspan x="10" y="16842">1028.  2017-04-25 22:56:59 +0000      134 bytes  spec/w3c/syntax-query/syntax-BINDscope8.rq</tspan>
+<tspan x="10" y="16858">1029.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/syntax-query/syntax-SELECTscope1.rq</tspan>
+<tspan x="10" y="16874">1030.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/syntax-query/syntax-SELECTscope2.rq</tspan>
+<tspan x="10" y="16890">1031.  2017-04-25 22:56:59 +0000       75 bytes  spec/w3c/syntax-query/syntax-SELECTscope3.rq</tspan>
+<tspan x="10" y="16906">1032.  2017-04-25 22:56:59 +0000       31 bytes  spec/w3c/syntax-query/syntax-aggregate-01.rq</tspan>
+<tspan x="10" y="16922">1033.  2017-04-25 22:56:59 +0000       40 bytes  spec/w3c/syntax-query/syntax-aggregate-02.rq</tspan>
+<tspan x="10" y="16938">1034.  2017-04-25 22:56:59 +0000       32 bytes  spec/w3c/syntax-query/syntax-aggregate-03.rq</tspan>
+<tspan x="10" y="16954">1035.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/syntax-query/syntax-aggregate-04.rq</tspan>
+<tspan x="10" y="16970">1036.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-aggregate-05.rq</tspan>
+<tspan x="10" y="16986">1037.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-aggregate-06.rq</tspan>
+<tspan x="10" y="17002">1038.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-aggregate-07.rq</tspan>
+<tspan x="10" y="17018">1039.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-aggregate-08.rq</tspan>
+<tspan x="10" y="17034">1040.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-aggregate-09.rq</tspan>
+<tspan x="10" y="17050">1041.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-aggregate-10.rq</tspan>
+<tspan x="10" y="17066">1042.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-aggregate-11.rq</tspan>
+<tspan x="10" y="17082">1043.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-aggregate-12.rq</tspan>
+<tspan x="10" y="17098">1044.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-aggregate-13.rq</tspan>
+<tspan x="10" y="17114">1045.  2017-04-25 22:56:59 +0000       44 bytes  spec/w3c/syntax-query/syntax-aggregate-14.rq</tspan>
+<tspan x="10" y="17130">1046.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/syntax-query/syntax-aggregate-15.rq</tspan>
+<tspan x="10" y="17146">1047.  2017-04-25 22:56:59 +0000       62 bytes  spec/w3c/syntax-query/syntax-bind-02.rq</tspan>
+<tspan x="10" y="17162">1048.  2017-04-25 22:56:59 +0000       42 bytes  spec/w3c/syntax-query/syntax-bindings-01.rq</tspan>
+<tspan x="10" y="17178">1049.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-bindings-02.rq</tspan>
+<tspan x="10" y="17194">1050.  2017-04-25 22:56:59 +0000       27 bytes  spec/w3c/syntax-query/syntax-bindings-02a.rq</tspan>
+<tspan x="10" y="17210">1051.  2017-04-25 22:56:59 +0000       29 bytes  spec/w3c/syntax-query/syntax-bindings-03.rq</tspan>
+<tspan x="10" y="17226">1052.  2017-04-25 22:56:59 +0000       30 bytes  spec/w3c/syntax-query/syntax-bindings-03a.rq</tspan>
+<tspan x="10" y="17242">1053.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-query/syntax-bindings-04.rq</tspan>
+<tspan x="10" y="17258">1054.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/syntax-query/syntax-bindings-05.rq</tspan>
+<tspan x="10" y="17274">1055.  2017-04-25 22:56:59 +0000       38 bytes  spec/w3c/syntax-query/syntax-bindings-05a.rq</tspan>
+<tspan x="10" y="17290">1056.  2017-04-25 22:56:59 +0000       42 bytes  spec/w3c/syntax-query/syntax-bindings-09.rq</tspan>
+<tspan x="10" y="17306">1057.  2017-04-25 22:56:59 +0000       31 bytes  spec/w3c/syntax-query/syntax-construct-where-01\</tspan>
+<tspan x="10" y="17322">.rq</tspan>
+<tspan x="10" y="17338">1058.  2017-04-25 22:56:59 +0000       44 bytes  spec/w3c/syntax-query/syntax-construct-where-02\</tspan>
+<tspan x="10" y="17354">.rq</tspan>
+<tspan x="10" y="17370">1059.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/syntax-query/syntax-exists-01.rq</tspan>
+<tspan x="10" y="17386">1060.  2017-04-25 22:56:59 +0000       46 bytes  spec/w3c/syntax-query/syntax-exists-02.rq</tspan>
+<tspan x="10" y="17402">1061.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/syntax-query/syntax-exists-03.rq</tspan>
+<tspan x="10" y="17418">1062.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/syntax-query/syntax-minus-01.rq</tspan>
+<tspan x="10" y="17434">1063.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/syntax-query/syntax-not-exists-01.rq</tspan>
+<tspan x="10" y="17450">1064.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/syntax-query/syntax-not-exists-02.rq</tspan>
+<tspan x="10" y="17466">1065.  2017-04-25 22:56:59 +0000       59 bytes  spec/w3c/syntax-query/syntax-not-exists-03.rq</tspan>
+<tspan x="10" y="17482">1066.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/syntax-query/syntax-oneof-01.rq</tspan>
+<tspan x="10" y="17498">1067.  2017-04-25 22:56:59 +0000       42 bytes  spec/w3c/syntax-query/syntax-oneof-02.rq</tspan>
+<tspan x="10" y="17514">1068.  2017-04-25 22:56:59 +0000       43 bytes  spec/w3c/syntax-query/syntax-oneof-03.rq</tspan>
+<tspan x="10" y="17530">1069.  2017-04-25 22:56:59 +0000       76 bytes  spec/w3c/syntax-query/syntax-propertyPaths-01.r\</tspan>
+<tspan x="10" y="17546">q</tspan>
+<tspan x="10" y="17562">1070.  2017-04-25 22:56:59 +0000       25 bytes  spec/w3c/syntax-query/syntax-select-expr-01.rq</tspan>
+<tspan x="10" y="17578">1071.  2017-04-25 22:56:59 +0000       31 bytes  spec/w3c/syntax-query/syntax-select-expr-02.rq</tspan>
+<tspan x="10" y="17594">1072.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-select-expr-03.rq</tspan>
+<tspan x="10" y="17610">1073.  2017-04-25 22:56:59 +0000       66 bytes  spec/w3c/syntax-query/syntax-select-expr-04.rq</tspan>
+<tspan x="10" y="17626">1074.  2017-04-25 22:56:59 +0000       58 bytes  spec/w3c/syntax-query/syntax-select-expr-05.rq</tspan>
+<tspan x="10" y="17642">1075.  2017-04-25 22:56:59 +0000       35 bytes  spec/w3c/syntax-query/syntax-subquery-01.rq</tspan>
+<tspan x="10" y="17658">1076.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/syntax-query/syntax-subquery-02.rq</tspan>
+<tspan x="10" y="17674">1077.  2017-04-25 22:56:59 +0000       49 bytes  spec/w3c/syntax-query/syntax-subquery-03.rq</tspan>
+<tspan x="10" y="17690">1078.  2017-04-25 22:56:59 +0000    14794 bytes  spec/w3c/syntax-update-1/manifest.ttl</tspan>
+<tspan x="10" y="17706">1079.  2017-04-25 22:56:59 +0000       89 bytes  spec/w3c/syntax-update-1/syntax-update-01.ru</tspan>
+<tspan x="10" y="17722">1080.  2017-04-25 22:56:59 +0000      129 bytes  spec/w3c/syntax-update-1/syntax-update-02.ru</tspan>
+<tspan x="10" y="17738">1081.  2017-04-25 22:56:59 +0000       36 bytes  spec/w3c/syntax-update-1/syntax-update-03.ru</tspan>
+<tspan x="10" y="17754">1082.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/syntax-update-1/syntax-update-04.ru</tspan>
+<tspan x="10" y="17770">1083.  2017-04-25 22:56:59 +0000       11 bytes  spec/w3c/syntax-update-1/syntax-update-05.ru</tspan>
+<tspan x="10" y="17786">1084.  2017-04-25 22:56:59 +0000       13 bytes  spec/w3c/syntax-update-1/syntax-update-06.ru</tspan>
+<tspan x="10" y="17802">1085.  2017-04-25 22:56:59 +0000        9 bytes  spec/w3c/syntax-update-1/syntax-update-07.ru</tspan>
+<tspan x="10" y="17818">1086.  2017-04-25 22:56:59 +0000       19 bytes  spec/w3c/syntax-update-1/syntax-update-08.ru</tspan>
+<tspan x="10" y="17834">1087.  2017-04-25 22:56:59 +0000       18 bytes  spec/w3c/syntax-update-1/syntax-update-09.ru</tspan>
+<tspan x="10" y="17850">1088.  2017-04-25 22:56:59 +0000       20 bytes  spec/w3c/syntax-update-1/syntax-update-10.ru</tspan>
+<tspan x="10" y="17866">1089.  2017-04-25 22:56:59 +0000       16 bytes  spec/w3c/syntax-update-1/syntax-update-11.ru</tspan>
+<tspan x="10" y="17882">1090.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-update-1/syntax-update-12.ru</tspan>
+<tspan x="10" y="17898">1091.  2017-04-25 22:56:59 +0000       21 bytes  spec/w3c/syntax-update-1/syntax-update-13.ru</tspan>
+<tspan x="10" y="17914">1092.  2017-04-25 22:56:59 +0000       28 bytes  spec/w3c/syntax-update-1/syntax-update-14.ru</tspan>
+<tspan x="10" y="17930">1093.  2017-04-25 22:56:59 +0000       12 bytes  spec/w3c/syntax-update-1/syntax-update-15.ru</tspan>
+<tspan x="10" y="17946">1094.  2017-04-25 22:56:59 +0000       14 bytes  spec/w3c/syntax-update-1/syntax-update-16.ru</tspan>
+<tspan x="10" y="17962">1095.  2017-04-25 22:56:59 +0000       10 bytes  spec/w3c/syntax-update-1/syntax-update-17.ru</tspan>
+<tspan x="10" y="17978">1096.  2017-04-25 22:56:59 +0000       20 bytes  spec/w3c/syntax-update-1/syntax-update-18.ru</tspan>
+<tspan x="10" y="17994">1097.  2017-04-25 22:56:59 +0000       19 bytes  spec/w3c/syntax-update-1/syntax-update-19.ru</tspan>
+<tspan x="10" y="18010">1098.  2017-04-25 22:56:59 +0000       21 bytes  spec/w3c/syntax-update-1/syntax-update-20.ru</tspan>
+<tspan x="10" y="18026">1099.  2017-04-25 22:56:59 +0000       17 bytes  spec/w3c/syntax-update-1/syntax-update-21.ru</tspan>
+<tspan x="10" y="18042">1100.  2017-04-25 22:56:59 +0000       27 bytes  spec/w3c/syntax-update-1/syntax-update-22.ru</tspan>
+<tspan x="10" y="18058">1101.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/syntax-update-1/syntax-update-23.ru</tspan>
+<tspan x="10" y="18074">1102.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/syntax-update-1/syntax-update-24.ru</tspan>
+<tspan x="10" y="18090">1103.  2017-04-25 22:56:59 +0000      136 bytes  spec/w3c/syntax-update-1/syntax-update-25.ru</tspan>
+<tspan x="10" y="18106">1104.  2017-04-25 22:56:59 +0000       66 bytes  spec/w3c/syntax-update-1/syntax-update-26.ru</tspan>
+<tspan x="10" y="18122">1105.  2017-04-25 22:56:59 +0000       17 bytes  spec/w3c/syntax-update-1/syntax-update-27.ru</tspan>
+<tspan x="10" y="18138">1106.  2017-04-25 22:56:59 +0000       30 bytes  spec/w3c/syntax-update-1/syntax-update-28.ru</tspan>
+<tspan x="10" y="18154">1107.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/syntax-update-1/syntax-update-29.ru</tspan>
+<tspan x="10" y="18170">1108.  2017-04-25 22:56:59 +0000       55 bytes  spec/w3c/syntax-update-1/syntax-update-30.ru</tspan>
+<tspan x="10" y="18186">1109.  2017-04-25 22:56:59 +0000      136 bytes  spec/w3c/syntax-update-1/syntax-update-31.ru</tspan>
+<tspan x="10" y="18202">1110.  2017-04-25 22:56:59 +0000      195 bytes  spec/w3c/syntax-update-1/syntax-update-32.ru</tspan>
+<tspan x="10" y="18218">1111.  2017-04-25 22:56:59 +0000       91 bytes  spec/w3c/syntax-update-1/syntax-update-33.ru</tspan>
+<tspan x="10" y="18234">1112.  2017-04-25 22:56:59 +0000       91 bytes  spec/w3c/syntax-update-1/syntax-update-34.ru</tspan>
+<tspan x="10" y="18250">1113.  2017-04-25 22:56:59 +0000       26 bytes  spec/w3c/syntax-update-1/syntax-update-35.ru</tspan>
+<tspan x="10" y="18266">1114.  2017-04-25 22:56:59 +0000       90 bytes  spec/w3c/syntax-update-1/syntax-update-36.ru</tspan>
+<tspan x="10" y="18282">1115.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/syntax-update-1/syntax-update-37.ru</tspan>
+<tspan x="10" y="18298">1116.  2017-04-25 22:56:59 +0000        8 bytes  spec/w3c/syntax-update-1/syntax-update-38.ru</tspan>
+<tspan x="10" y="18314">1117.  2017-04-25 22:56:59 +0000       41 bytes  spec/w3c/syntax-update-1/syntax-update-39.ru</tspan>
+<tspan x="10" y="18330">1118.  2017-04-25 22:56:59 +0000       45 bytes  spec/w3c/syntax-update-1/syntax-update-40.ru</tspan>
+<tspan x="10" y="18346">1119.  2017-04-25 22:56:59 +0000      145 bytes  spec/w3c/syntax-update-1/syntax-update-53.ru</tspan>
+<tspan x="10" y="18362">1120.  2017-04-25 22:56:59 +0000       93 bytes  spec/w3c/syntax-update-1/syntax-update-54.ru</tspan>
+<tspan x="10" y="18378">1121.  2017-04-25 22:56:59 +0000       16 bytes  spec/w3c/syntax-update-1/syntax-update-bad-01.r\</tspan>
+<tspan x="10" y="18394">u</tspan>
+<tspan x="10" y="18410">1122.  2017-04-25 22:56:59 +0000       34 bytes  spec/w3c/syntax-update-1/syntax-update-bad-02.r\</tspan>
+<tspan x="10" y="18426">u</tspan>
+<tspan x="10" y="18442">1123.  2017-04-25 22:56:59 +0000       47 bytes  spec/w3c/syntax-update-1/syntax-update-bad-03.r\</tspan>
+<tspan x="10" y="18458">u</tspan>
+<tspan x="10" y="18474">1124.  2017-04-25 22:56:59 +0000       60 bytes  spec/w3c/syntax-update-1/syntax-update-bad-04.r\</tspan>
+<tspan x="10" y="18490">u</tspan>
+<tspan x="10" y="18506">1125.  2017-04-25 22:56:59 +0000      102 bytes  spec/w3c/syntax-update-1/syntax-update-bad-05.r\</tspan>
+<tspan x="10" y="18522">u</tspan>
+<tspan x="10" y="18538">1126.  2017-04-25 22:56:59 +0000       45 bytes  spec/w3c/syntax-update-1/syntax-update-bad-06.r\</tspan>
+<tspan x="10" y="18554">u</tspan>
+<tspan x="10" y="18570">1127.  2017-04-25 22:56:59 +0000       61 bytes  spec/w3c/syntax-update-1/syntax-update-bad-07.r\</tspan>
+<tspan x="10" y="18586">u</tspan>
+<tspan x="10" y="18602">1128.  2017-04-25 22:56:59 +0000       71 bytes  spec/w3c/syntax-update-1/syntax-update-bad-08.r\</tspan>
+<tspan x="10" y="18618">u</tspan>
+<tspan x="10" y="18634">1129.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/syntax-update-1/syntax-update-bad-09.r\</tspan>
+<tspan x="10" y="18650">u</tspan>
+<tspan x="10" y="18666">1130.  2017-04-25 22:56:59 +0000       53 bytes  spec/w3c/syntax-update-1/syntax-update-bad-10.r\</tspan>
+<tspan x="10" y="18682">u</tspan>
+<tspan x="10" y="18698">1131.  2017-04-25 22:56:59 +0000       70 bytes  spec/w3c/syntax-update-1/syntax-update-bad-11.r\</tspan>
+<tspan x="10" y="18714">u</tspan>
+<tspan x="10" y="18730">1132.  2017-04-25 22:56:59 +0000       51 bytes  spec/w3c/syntax-update-1/syntax-update-bad-12.r\</tspan>
+<tspan x="10" y="18746">u</tspan>
+<tspan x="10" y="18762">1133.  2017-04-25 22:56:59 +0000    12910 bytes  spec/w3c/syntax-update-2/large-request-01.ru</tspan>
+<tspan x="10" y="18778">1134.  2017-04-25 22:56:59 +0000      922 bytes  spec/w3c/syntax-update-2/manifest.ttl</tspan>
+<tspan x="10" y="18794">1135.  2017-04-25 22:56:59 +0000       82 bytes  spec/w3c/update-silent/add-silent.ru</tspan>
+<tspan x="10" y="18810">1136.  2017-04-25 22:56:59 +0000       56 bytes  spec/w3c/update-silent/add-to-default-silent.ru</tspan>
+<tspan x="10" y="18826">1137.  2017-04-25 22:56:59 +0000       14 bytes  spec/w3c/update-silent/clear-default-silent.ru</tspan>
+<tspan x="10" y="18842">1138.  2017-04-25 22:56:59 +0000       44 bytes  spec/w3c/update-silent/clear-silent.ru</tspan>
+<tspan x="10" y="18858">1139.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/update-silent/copy-silent.ru</tspan>
+<tspan x="10" y="18874">1140.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/update-silent/copy-to-default-silent.r\</tspan>
+<tspan x="10" y="18890">u</tspan>
+<tspan x="10" y="18906">1141.  2017-04-25 22:56:59 +0000       44 bytes  spec/w3c/update-silent/create-silent.ru</tspan>
+<tspan x="10" y="18922">1142.  2017-04-25 22:56:59 +0000       13 bytes  spec/w3c/update-silent/drop-default-silent.ru</tspan>
+<tspan x="10" y="18938">1143.  2017-04-25 22:56:59 +0000       43 bytes  spec/w3c/update-silent/drop-silent.ru</tspan>
+<tspan x="10" y="18954">1144.  2017-04-25 22:56:59 +0000      107 bytes  spec/w3c/update-silent/load-silent-into.ru</tspan>
+<tspan x="10" y="18970">1145.  2017-04-25 22:56:59 +0000       69 bytes  spec/w3c/update-silent/load-silent.ru</tspan>
+<tspan x="10" y="18986">1146.  2017-04-25 22:56:59 +0000     6939 bytes  spec/w3c/update-silent/manifest.ttl</tspan>
+<tspan x="10" y="19002">1147.  2017-04-25 22:56:59 +0000       83 bytes  spec/w3c/update-silent/move-silent.ru</tspan>
+<tspan x="10" y="19018">1148.  2017-04-25 22:56:59 +0000       57 bytes  spec/w3c/update-silent/move-to-default-silent.r\</tspan>
+<tspan x="10" y="19034">u</tspan>
+<tspan x="10" y="19050">1149.  2017-04-25 22:56:59 +0000       50 bytes  spec/w3c/update-silent/spo.ttl</tspan>
+<tspan x="10" y="19066">1150.  2017-04-25 22:56:59 +0000     1056 bytes  spec/w3c_spec.js</tspan>
+<tspan x="10" y="19082">1151.  2017-04-25 22:56:59 +0000     5436 bytes  spec/w3c_suite_helper.js</tspan>
+<tspan x="10" y="19098">1152.  2017-04-25 22:56:59 +0000    25943 bytes  src/abstract_query_tree.js</tspan>
+<tspan x="10" y="19114">1153.  2017-04-25 22:56:59 +0000    29834 bytes  src/btree.js</tspan>
+<tspan x="10" y="19130">1154.  2017-04-25 22:56:59 +0000    14827 bytes  src/graph_callbacks.js</tspan>
+<tspan x="10" y="19146">1155.  2017-04-25 22:56:59 +0000     2182 bytes  src/jsonld_parser.js</tspan>
+<tspan x="10" y="19162">1156.  2017-04-25 22:56:59 +0000    15115 bytes  src/lexicon.js</tspan>
+<tspan x="10" y="19178">1157.  2017-04-25 22:56:59 +0000     2328 bytes  src/network_transport.js</tspan>
+<tspan x="10" y="19194">1158.  2017-04-25 22:56:59 +0000   634601 bytes  src/parser.js</tspan>
+<tspan x="10" y="19210">1159.  2017-04-25 22:56:59 +0000     1470 bytes  src/perftest/btree_hash.js</tspan>
+<tspan x="10" y="19226">1160.  2017-04-25 22:56:59 +0000     9684 bytes  src/perftest/lexicon_hash.js</tspan>
+<tspan x="10" y="19242">1161.  2017-04-25 22:56:59 +0000     3154 bytes  src/perftest/trees.js</tspan>
+<tspan x="10" y="19258">1162.  2017-04-25 22:56:59 +0000    16157 bytes  src/persistent_lexicon.js</tspan>
+<tspan x="10" y="19274">1163.  2017-04-25 22:56:59 +0000     6959 bytes  src/persistent_quad_backend.js</tspan>
+<tspan x="10" y="19290">1164.  2017-04-25 22:56:59 +0000     3773 bytes  src/quad_backend.js</tspan>
+<tspan x="10" y="19306">1165.  2017-04-25 22:56:59 +0000     6949 bytes  src/quad_index.js</tspan>
+<tspan x="10" y="19322">1166.  2017-04-25 22:56:59 +0000    71164 bytes  src/query_engine.js</tspan>
+<tspan x="10" y="19338">1167.  2017-04-25 22:56:59 +0000    75751 bytes  src/query_filters.js</tspan>
+<tspan x="10" y="19354">1168.  2017-04-25 22:56:59 +0000    23544 bytes  src/query_plan.js</tspan>
+<tspan x="10" y="19370">1169.  2017-04-25 22:56:59 +0000     5124 bytes  src/rdf_loader.js</tspan>
+<tspan x="10" y="19386">1170.  2017-04-25 22:56:59 +0000    16048 bytes  src/rdf_model.js</tspan>
+<tspan x="10" y="19402">1171.  2017-04-25 22:56:59 +0000     1974 bytes  src/rvn3_parser.js</tspan>
+<tspan x="10" y="19418">1172.  2017-04-25 22:56:59 +0000    31820 bytes  src/store.js</tspan>
+<tspan x="10" y="19434">1173.  2017-04-25 22:56:59 +0000    12895 bytes  src/utils.js</tspan>
+</text>
+</svg>
